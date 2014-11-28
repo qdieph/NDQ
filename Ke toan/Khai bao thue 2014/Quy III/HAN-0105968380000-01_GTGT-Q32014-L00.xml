@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<HSoKhaiThue id="ID_18">
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.2.5</pbanDVu>
+				<ttinNhaCCapDVu/>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>01</maTKhai>
+					<tenTKhai>TỜ KHAI THUẾ GIÁ TRỊ GIA TĂNG (Mẫu số 01/GTGT)</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 156/2013/TT-BTC ngày 06/11/2013 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.1</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Q</kieuKy>
+						<kyKKhai>3/2014</kyKKhai>
+						<kyKKhaiTuNgay>01/07/2014</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>30/09/2014</kyKKhaiDenNgay>
+						<kyKKhaiTuThang/>
+						<kyKKhaiDenThang/>
+					</KyKKhaiThue>
+					<maCQTNoiNop>10109</maCQTNoiNop>
+					<tenCQTNoiNop>Chi cục Thuế Quận Đống đa</tenCQTNoiNop>
+					<ngayLapTKhai>2014-10-30</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan/>
+						<lyDoGiaHan/>
+					</GiaHan>
+					<nguoiKy>Tô Quốc Điệp</nguoiKy>
+					<ngayKy>2014-10-30</ngayKy>
+					<nganhNgheKD>Đầu tư, các nghành liên quan đến máy tính</nganhNgheKD>
+				</TKhaiThue>
+				<NNT>
+					<mst>0105968380</mst>
+					<tenNNT>Công ty Cổ phần Công nghệ và Đầu tư NDQ Vệt Nam</tenNNT>
+					<dchiNNT>Số 12 nghách 33/15B Cát Linh, Quận Đống Đa, Thành phố Hà Nội</dchiNNT>
+					<phuongXa/>
+					<maHuyenNNT/>
+					<tenHuyenNNT>Đống Đa</tenHuyenNNT>
+					<maTinhNNT/>
+					<tenTinhNNT>Hà Nội</tenTinhNNT>
+					<dthoaiNNT>04. 44500745</dthoaiNNT>
+					<faxNNT/>
+					<emailNNT>info@ndqvietnam.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<tieuMucHachToan>1701</tieuMucHachToan>
+			<ct21>0</ct21>
+			<ct22>676727</ct22>
+			<GiaTriVaThueGTGTHHDVMuaVao>
+				<ct23>10507528</ct23>
+				<ct24>802053</ct24>
+			</GiaTriVaThueGTGTHHDVMuaVao>
+			<ct25>802053</ct25>
+			<ct26>48843000</ct26>
+			<HHDVBRaChiuThueGTGT>
+				<ct27>4004000</ct27>
+				<ct28>400400</ct28>
+			</HHDVBRaChiuThueGTGT>
+			<ct29>0</ct29>
+			<HHDVBRaChiuTSuat5>
+				<ct30>0</ct30>
+				<ct31>0</ct31>
+			</HHDVBRaChiuTSuat5>
+			<HHDVBRaChiuTSuat10>
+				<ct32>4004000</ct32>
+				<ct33>400400</ct33>
+			</HHDVBRaChiuTSuat10>
+			<TongDThuVaThueGTGTHHDVBRa>
+				<ct34>52847000</ct34>
+				<ct35>400400</ct35>
+			</TongDThuVaThueGTGTHHDVBRa>
+			<ct36>-401653</ct36>
+			<ct37>0</ct37>
+			<ct38>0</ct38>
+			<ct39>0</ct39>
+			<ct40a>0</ct40a>
+			<ct40b>0</ct40b>
+			<ct40>0</ct40>
+			<ct41>1078380</ct41>
+			<ct42>0</ct42>
+			<ct43>1078380</ct43>
+		</CTieuTKhaiChinh>
+		<PLuc>
+			<PL01_1_GTGT>
+				<HHDVKChiuThue>
+					<ChiTietHHDVKChiuThue>
+						<HDonBRa id="ID_1">
+							<kyHieuMauHDon>01GTKT3/001</kyHieuMauHDon>
+							<kyHieuHDon>AA/12P</kyHieuHDon>
+							<soHDon>0000123</soHDon>
+							<ngayPHanh>2014-07-07</ngayPHanh>
+							<tenNMUA>Công ty CP Công nghệ Thông tin Viễn thông và Tự động hóa Dầu Khí</tenNMUA>
+							<mstNMUA>0103349508</mstNMUA>
+							<matHang>Nâng cấp hệ thống QLCVTL của Ban quản lý khí Đông Nam Bộ</matHang>
+							<dsoBanChuaThue>30000000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_2">
+							<kyHieuMauHDon>01GTKT3/001</kyHieuMauHDon>
+							<kyHieuHDon>AA/12P</kyHieuHDon>
+							<soHDon>0000124</soHDon>
+							<ngayPHanh>2014-07-16</ngayPHanh>
+							<tenNMUA>Trung tâm tư vấn và Dịch vụ Kỹ thuật TBYT(Hội TBYT Việt Nam)</tenNMUA>
+							<mstNMUA>0101393188</mstNMUA>
+							<matHang>Phí cập nhật website</matHang>
+							<dsoBanChuaThue>3000000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_3">
+							<kyHieuMauHDon>01GTKT3/001</kyHieuMauHDon>
+							<kyHieuHDon>AA/12P</kyHieuHDon>
+							<soHDon>0000126</soHDon>
+							<ngayPHanh>2014-07-22</ngayPHanh>
+							<tenNMUA>Công ty Cổ phần Quốc tế Việt Nam Nhật Bản</tenNMUA>
+							<mstNMUA>0106584073</mstNMUA>
+							<matHang>Đăng ký và duy trì tên miền</matHang>
+							<dsoBanChuaThue>830000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_4">
+							<kyHieuMauHDon>01GTKT3/001</kyHieuMauHDon>
+							<kyHieuHDon>AA/12P</kyHieuHDon>
+							<soHDon>0000127</soHDon>
+							<ngayPHanh>2014-07-30</ngayPHanh>
+							<tenNMUA>Công ty TNHH Mẹ và Bé</tenNMUA>
+							<mstNMUA>0101609655</mstNMUA>
+							<matHang>Phí cập nhật website</matHang>
+							<dsoBanChuaThue>1500000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_5">
+							<kyHieuMauHDon>01GTKT3/001</kyHieuMauHDon>
+							<kyHieuHDon>AA/12P</kyHieuHDon>
+							<soHDon>0000128</soHDon>
+							<ngayPHanh>2014-08-04</ngayPHanh>
+							<tenNMUA>Công ty CP Thẩm định giá và Dịch vụ Tài chính Hà Nội</tenNMUA>
+							<mstNMUA>0102925759</mstNMUA>
+							<matHang>Duy trì website</matHang>
+							<dsoBanChuaThue>3793000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_6">
+							<kyHieuMauHDon>01GTKT3/001</kyHieuMauHDon>
+							<kyHieuHDon>AA/12P</kyHieuHDon>
+							<soHDon>0000131</soHDon>
+							<ngayPHanh>2014-08-12</ngayPHanh>
+							<tenNMUA>Công ty Cổ phần Phần mềm Luvina</tenNMUA>
+							<mstNMUA>0101673192</mstNMUA>
+							<matHang>Thu phí duy trì tên miền</matHang>
+							<dsoBanChuaThue>350000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_7">
+							<kyHieuMauHDon>01GTKT3/001</kyHieuMauHDon>
+							<kyHieuHDon>AA/12P</kyHieuHDon>
+							<soHDon>0000132</soHDon>
+							<ngayPHanh>2014-09-10</ngayPHanh>
+							<tenNMUA>Công ty Liên doanh TNHH Berjaya - Hồ Tây</tenNMUA>
+							<mstNMUA>0100112268</mstNMUA>
+							<matHang>Thiết kế flash website</matHang>
+							<dsoBanChuaThue>5000000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_8">
+							<kyHieuMauHDon>01GTKT3/001</kyHieuMauHDon>
+							<kyHieuHDon>AA/12P</kyHieuHDon>
+							<soHDon>0000133</soHDon>
+							<ngayPHanh>2014-09-10</ngayPHanh>
+							<tenNMUA>Công ty Cổ phần Phát hành sách và Thiết bị trường học Hưng Yên</tenNMUA>
+							<mstNMUA>0900106390</mstNMUA>
+							<matHang>Duy trì website</matHang>
+							<dsoBanChuaThue>2020000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_9">
+							<kyHieuMauHDon>01GTKT3/001</kyHieuMauHDon>
+							<kyHieuHDon>AA/12P</kyHieuHDon>
+							<soHDon>0000134</soHDon>
+							<ngayPHanh>2014-09-18</ngayPHanh>
+							<tenNMUA>Công ty TNHH Xây dựng và Vật liệu Công nghệ mới AHA</tenNMUA>
+							<mstNMUA>0101846575</mstNMUA>
+							<matHang>Duy trì website</matHang>
+							<dsoBanChuaThue>2350000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa></ChiTietHHDVKChiuThue>
+					<tongDThuBRaKChiuThue>48843000</tongDThuBRaKChiuThue>
+				</HHDVKChiuThue>
+				<HHDVThue0>
+					<ChiTietHHDVThue0>
+					</ChiTietHHDVThue0>
+					<tongDThuBRaThue0>0</tongDThuBRaThue0>
+					<tongThueBRaThue0>0</tongThueBRaThue0>
+				</HHDVThue0>
+				<HHDVThue5>
+					<ChiTietHHDVThue5>
+					</ChiTietHHDVThue5>
+					<tongDThuBRaThue5>0</tongDThuBRaThue5>
+					<tongThueBRaThue5>0</tongThueBRaThue5>
+				</HHDVThue5>
+				<HHDVThue10>
+					<ChiTietHHDVThue10>
+						<HDonBRa id="ID_1">
+							<kyHieuMauHDon>01GTKT3/001</kyHieuMauHDon>
+							<kyHieuHDon>AA/12P</kyHieuHDon>
+							<soHDon>0000129</soHDon>
+							<ngayPHanh>2014-08-11</ngayPHanh>
+							<tenNMUA>Công ty CP Sách Thái Hà</tenNMUA>
+							<mstNMUA>0102300429</mstNMUA>
+							<matHang>Thuê dung lượng máy chủ</matHang>
+							<dsoBanChuaThue>2134000</dsoBanChuaThue>
+							<thueGTGT>213400</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_2">
+							<kyHieuMauHDon>01GTKT3/001</kyHieuMauHDon>
+							<kyHieuHDon>AA/12P</kyHieuHDon>
+							<soHDon>0000130</soHDon>
+							<ngayPHanh>2014-08-12</ngayPHanh>
+							<tenNMUA>Công ty Cổ phần Phần mềm Luvina</tenNMUA>
+							<mstNMUA>0101673192</mstNMUA>
+							<matHang>Thuê dung lượng máy chủ</matHang>
+							<dsoBanChuaThue>1870000</dsoBanChuaThue>
+							<thueGTGT>187000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa></ChiTietHHDVThue10>
+					<tongDThuBRaThue10>4004000</tongDThuBRaThue10>
+					<tongThueBRaThue10>400400</tongThueBRaThue10>
+				</HHDVThue10>
+				<HHDVBRaKhongTHop>
+					<ChiTietHHDVBRaKhongTHop>
+					</ChiTietHHDVBRaKhongTHop>
+					<tongDThuBRaKoKKhai>0</tongDThuBRaKoKKhai>
+					<tongThueBRaKoKKhai>0</tongThueBRaKoKKhai>
+				</HHDVBRaKhongTHop>
+				<tongDThuBRa>52847000</tongDThuBRa>
+				<tongDThuBRaChiuThue>4004000</tongDThuBRaChiuThue>
+				<tongThueBRa>400400</tongThueBRa>
+			</PL01_1_GTGT>
+			<PL01_2_GTGT>
+				<HHDVDRieng>
+					<ChiTietHHDVDRieng>
+					</ChiTietHHDVDRieng>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVDRieng>
+				<HHDVKhongKTru>
+					<ChiTietHHDVKhongKTru>
+					</ChiTietHHDVKhongKTru>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVKhongKTru>
+				<HHDVDChung>
+					<ChiTietHHDVDChung>
+						<HDonMVao id="ID_1">
+							<kyHieuMauHDon>01GTKT2/001</kyHieuMauHDon>
+							<kyHieuHDon>BA/11P</kyHieuHDon>
+							<soHDon>0982707</soHDon>
+							<ngayPHanh>2014-05-08</ngayPHanh>
+							<tenNBAN>Công ty Thông tin Di động Trung tâm Thông tin Di động khu vực I</tenNBAN>
+							<mstNBAN>0100686209-001</mstNBAN>
+							<matHang>Cước thông tin di động</matHang>
+							<dsoMuaChuaThue>204164</dsoMuaChuaThue>
+							<thueSuat>10</thueSuat>
+							<thueGTGT>20416</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_2">
+							<kyHieuMauHDon>01GTKT3/005</kyHieuMauHDon>
+							<kyHieuHDon>PC/14P</kyHieuHDon>
+							<soHDon>0162919</soHDon>
+							<ngayPHanh>2014-05-18</ngayPHanh>
+							<tenNBAN>Công ty Cổ phần PICO</tenNBAN>
+							<mstNBAN>0102018260</mstNBAN>
+							<matHang>Tivi Led Sony</matHang>
+							<dsoMuaChuaThue>6000000</dsoMuaChuaThue>
+							<thueSuat>10</thueSuat>
+							<thueGTGT>600000</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_3">
+							<kyHieuMauHDon>01GTKT3/005</kyHieuMauHDon>
+							<kyHieuHDon>PC/14P</kyHieuHDon>
+							<soHDon>0155762</soHDon>
+							<ngayPHanh>2014-05-18</ngayPHanh>
+							<tenNBAN>Công ty Cổ phần PICO</tenNBAN>
+							<mstNBAN>0102018260</mstNBAN>
+							<matHang>Bình siêu tốc</matHang>
+							<dsoMuaChuaThue>445455</dsoMuaChuaThue>
+							<thueSuat>10</thueSuat>
+							<thueGTGT>44546</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_4">
+							<kyHieuMauHDon>01GTKT3/005</kyHieuMauHDon>
+							<kyHieuHDon>PC/14P</kyHieuHDon>
+							<soHDon>0180166</soHDon>
+							<ngayPHanh>2014-06-01</ngayPHanh>
+							<tenNBAN>Công ty Cổ phần PICO</tenNBAN>
+							<mstNBAN>0102018260</mstNBAN>
+							<matHang>Thẻ cào HD truyền hình K+ </matHang>
+							<dsoMuaChuaThue>1099091</dsoMuaChuaThue>
+							<thueSuat>10</thueSuat>
+							<thueGTGT>109909</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_5">
+							<kyHieuMauHDon>01GTKT3/005</kyHieuMauHDon>
+							<kyHieuHDon>PC/14P</kyHieuHDon>
+							<soHDon>0183339</soHDon>
+							<ngayPHanh>2014-06-04</ngayPHanh>
+							<tenNBAN>Công ty Cổ phần PICO</tenNBAN>
+							<mstNBAN>0102018260</mstNBAN>
+							<matHang>Tai nghe</matHang>
+							<dsoMuaChuaThue>271818</dsoMuaChuaThue>
+							<thueSuat>10</thueSuat>
+							<thueGTGT>27182</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_6">
+							<kyHieuMauHDon>01GTKT3/001</kyHieuMauHDon>
+							<kyHieuHDon>NN/14P</kyHieuHDon>
+							<soHDon>0001524</soHDon>
+							<ngayPHanh>2014-09-22</ngayPHanh>
+							<tenNBAN>Công ty Cổ phần NETNAM</tenNBAN>
+							<mstNBAN>0100896284</mstNBAN>
+							<matHang>Phí duy trì tên miền</matHang>
+							<dsoMuaChuaThue>480000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_7">
+							<kyHieuMauHDon>01GTKT2/001</kyHieuMauHDon>
+							<kyHieuHDon>TT/11P</kyHieuHDon>
+							<soHDon>0003911</soHDon>
+							<ngayPHanh>2014-08-30</ngayPHanh>
+							<tenNBAN>Công ty TNHH Giải pháp Trực tuyến</tenNBAN>
+							<mstNBAN>0101394625</mstNBAN>
+							<matHang>Thu phí duy trì tên miền</matHang>
+							<dsoMuaChuaThue>2007000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonMVao></ChiTietHHDVDChung>
+					<tongGTriMVao>10507528</tongGTriMVao>
+					<tongThueMVao>802053</tongThueMVao>
+				</HHDVDChung>
+				<HHDVKTru>
+					<ChiTietHHDVKTru>
+					</ChiTietHHDVKTru>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVKTru>
+				<HHDVMVaoKhongTHop>
+					<ChiTietHHDVMVaoKhongTHop>
+					</ChiTietHHDVMVaoKhongTHop>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVMVaoKhongTHop>
+				<tongGTriMVao>10507528</tongGTriMVao>
+				<tongThueMVao>802053</tongThueMVao>
+			</PL01_2_GTGT>
+		</PLuc>
+	</HSoKhaiThue>
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#ID_18"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Uj2LVHHyayZQ01bJwa8rvNeSMP0=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>A1eMJ8A+AoXaPREzgaVmmKN/EIZYimLsPrOGIacUflatQC4LYwcoU0Za/EYT8spCW/depDk4j+Uw
+tXuYd5q2Iz6/YzHohCivZxR1QKsydCuz2YFLnYe0FVLT/JbWEiM+bKDZHLS+AEdpZes9ew5xYcIB
+3cay2M2lE8vqGCqgHBc=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>i6CqmaK2HZjNXcZRriORjOD8LuXQLhURln/tliGJimGITkyUm0dQGA18t+9+T0qNQPCaOAOQehzr
+ac/obhvnn5RpfSSc5IcbUf/m/Ry4MGIZIv4Q+B3SbupcQjfuMp8J+pOn3qJrcmf+sO/ZwLJsulvd
+6nRJWozwwmraozDNmjM=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>C=VN,ST=Hà Nội,L=Đống Đa,CN=Công Ty Cổ Phần Công Nghệ Và Đầu Tư NDQ  Việt Nam,UID=MST:0105968380</ds:X509SubjectName><ds:X509Certificate>MIIESzCCAzOgAwIBAgIQVAMAmcYMHyQy/BMVBWDyQjANBgkqhkiG9w0BAQUFADBJMQswCQYDVQQG
+EwJWTjEOMAwGA1UEBxMFSGFub2kxGTAXBgNVBAoTEEJrYXYgQ29ycG9yYXRpb24xDzANBgNVBAMT
+BkJrYXZDQTAeFw0xNDA2MjEwODE1MzlaFw0xNTA3MTQwNzQ3NDVaMIGiMR4wHAYKCZImiZPyLGQB
+AQwOTVNUOjAxMDU5NjgzODAxSTBHBgNVBAMMQEPDtG5nIFR5IEPhu5UgUGjhuqduIEPDtG5nIE5n
+aOG7hyBWw6AgxJDhuqd1IFTGsCBORFEgIFZp4buHdCBOYW0xFDASBgNVBAcMC8SQ4buRbmcgxJBh
+MRIwEAYDVQQIDAlIw6AgTuG7mWkxCzAJBgNVBAYTAlZOMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCB
+iQKBgQCLoKqZorYdmM1dxlGuI5GM4Pwu5dAuFRGWf+2WIYmKYYhOTJSbR1AYDXy3735PSo1A8Jo4
+A5B6HOtpz+huG+eflGl9JJzkhxtR/+b9HLgwYhki/hD4HdJu6lxCN+4ynwn6k6feomtyZ/6w79nA
+smy6W93qdElajPDCatqjMM2aMwIDAQABo4IBVzCCAVMwMQYIKwYBBQUHAQEEJTAjMCEGCCsGAQUF
+BzABhhVodHRwOi8vb2NzcC5ia2F2Y2Eudm4wHQYDVR0OBBYEFD9oE6P/dIey5BscbKu++9cb7DCv
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUPegjmX9I7YjnebenVTwrsMwDqN0wfwYDVR0fBHgw
+djB0oCOgIYYfaHR0cDovL2NybC5ia2F2Y2Eudm4vQmthdkNBLmNybKJNpEswSTEPMA0GA1UEAwwG
+QmthdkNBMRkwFwYDVQQKDBBCa2F2IENvcnBvcmF0aW9uMQ4wDAYDVQQHDAVIYW5vaTELMAkGA1UE
+BhMCVk4wDgYDVR0PAQH/BAQDAgeAMB8GA1UdJQQYMBYGCCsGAQUFBwMEBgorBgEEAYI3CgMMMB4G
+A1UdEQQXMBWBE2luZm9AbmRxdmlldG5hbS5jb20wDQYJKoZIhvcNAQEFBQADggEBABLe6sTlKNiS
+m867KHxxaE3uzo1JA5FrWqCV3MAWhS/9LFlRHlP114qai92HBEnjFHnRLd93rN3EH904yYqmYndq
+k84m4LBEbdMDQzLJeL8mQUy5EZi2wgH/YxGGqHhIU1IEv3PegPZ3CMjjHBsAU2pMPzmCvmr18AEJ
+PqvU/rlOatP04vizJQjepQtzKMeV6wXR20gaYGNgQK1fKsEy3nV4RGhTsXbNktnWqn+/bEqgwG1d
+7Ys3Z1RSzLYdx3qZAf809Sw1ix/Fb7r2Qe+eNZBQgTu/VvmQGgp8vjaWmcmTMiYMNVcSxv1lnpPe
+XUP8tVewU6C9+QALBu+HNDat/Ec=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu></HSoThueDTu>

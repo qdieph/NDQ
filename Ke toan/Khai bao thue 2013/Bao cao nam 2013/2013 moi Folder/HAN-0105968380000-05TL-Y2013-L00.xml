@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<HSoKhaiThue id="_NODE_TO_SIGN">
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.2.1</pbanDVu>
+				<ttinNhaCCapDVu/>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>42</maTKhai>
+					<tenTKhai>&gt;Tờ khai 05/KK-TNCN</tenTKhai>
+					<moTaBMau>Ban hành kèm theo thông tư số 28/2011/TT-BTC ngày 28/02/2011 của Bộ tài chính.</moTaBMau>
+					<pbanTKhaiXML>3.2.1</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Y</kieuKy>
+						<kyKKhai>2013</kyKKhai>
+						<kyKKhaiTuNgay>01/01/2013</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>31/12/2013</kyKKhaiDenNgay>
+						<kyKKhaiTuThang/>
+						<kyKKhaiDenThang/>
+					</KyKKhaiThue>
+					<maCQTNoiNop>10109</maCQTNoiNop>
+					<tenCQTNoiNop>Chi cục Thuế Quận Đống đa</tenCQTNoiNop>
+					<ngayLapTKhai>2014-03-31</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan/>
+						<lyDoGiaHan/>
+					</GiaHan>
+					<nguoiKy/>
+					<ngayKy>2014-03-17</ngayKy>
+					<nganhNgheKD/>
+				</TKhaiThue>
+				<NNT>
+					<mst>0105968380</mst>
+					<tenNNT>Công ty CP Công nghệ và Đầu tư NDQ Việt Nam</tenNNT>
+					<dchiNNT>Số 12 ngách 33/15B Cát Linh, Phường Cát Linh</dchiNNT>
+					<phuongXa/>
+					<maHuyenNNT/>
+					<tenHuyenNNT>Đống Đa</tenHuyenNNT>
+					<maTinhNNT/>
+					<tenTinhNNT>Hà Nội</tenTinhNNT>
+					<dthoaiNNT>0444500745</dthoaiNNT>
+					<faxNNT/>
+					<emailNNT>info@ndqvietnam.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<NghiaVuKhauTruThue>
+				<TongCaNhanDaKhauTru>
+					<ct21>0</ct21>
+					<ct22>0</ct22>
+					<ct23>0</ct23>
+				</TongCaNhanDaKhauTru>
+				<TongTNCTTraChoCNhan>
+					<ct24>158585833</ct24>
+					<ct25>158585833</ct25>
+					<ct26>0</ct26>
+					<ct27>0</ct27>
+				</TongTNCTTraChoCNhan>
+				<TongTNCNTraChoCNKTru>
+					<ct28>0</ct28>
+					<ct29>0</ct29>
+					<ct30>0</ct30>
+					<ct31>0</ct31>
+				</TongTNCNTraChoCNKTru>
+				<TongSoThueTNCNDaKTru>
+					<ct32>0</ct32>
+					<ct33>0</ct33>
+					<ct34>0</ct34>
+					<ct35>0</ct35>
+				</TongSoThueTNCNDaKTru>
+				<TongSoThueTNCNPhaiKTru>
+					<ct36>0</ct36>
+					<ct37>0</ct37>
+					<ct38>0</ct38>
+					<ct39>0</ct39>
+				</TongSoThueTNCNPhaiKTru>
+				<ct40>0</ct40>
+				<ct41>0</ct41>
+				<ct42>0</ct42>
+			</NghiaVuKhauTruThue>
+			<NghiaVuQuyetToanThay>
+				<ct43>4</ct43>
+				<ct44>0</ct44>
+				<ct45>0</ct45>
+				<ct46>0</ct46>
+				<ct47>0</ct47>
+			</NghiaVuQuyetToanThay>
+		</CTieuTKhaiChinh>
+		<PLuc>
+			<PL05A_BK-TNCN>
+				<CHITIETCHIUTHUETNCN>
+					<cacThongTinChiTieuThueTNCN id="ID_1">
+						<ct07>Nguyễn Cường Thịnh</ct07>
+						<ct08>8026612594</ct08>
+						<ct09>031366300</ct09>
+						<ct10>1</ct10>
+						<ThuNhapChiuThue>
+							<ct11>45792500</ct11>
+							<ct12>0</ct12>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct13>78000000</ct13>
+							<ct14>0</ct14>
+							<ct15>0</ct15>
+						</CacKhoanGiamTru>
+						<ct16>0</ct16>
+						<ct17>0</ct17>
+						<ct18>0</ct18>
+						<ChiTietKQQuyetToanThay>
+							<ct19>0</ct19>
+							<ct20>0</ct20>
+							<ct21>0</ct21>
+						</ChiTietKQQuyetToanThay>
+					</cacThongTinChiTieuThueTNCN><cacThongTinChiTieuThueTNCN id="ID_2">
+						<ct07>Tô Quốc Điệp</ct07>
+						<ct08>0103269108</ct08>
+						<ct09>100721004</ct09>
+						<ct10>1</ct10>
+						<ThuNhapChiuThue>
+							<ct11>47042500</ct11>
+							<ct12>0</ct12>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct13>78000000</ct13>
+							<ct14>0</ct14>
+							<ct15>0</ct15>
+						</CacKhoanGiamTru>
+						<ct16>0</ct16>
+						<ct17>0</ct17>
+						<ct18>0</ct18>
+						<ChiTietKQQuyetToanThay>
+							<ct19>0</ct19>
+							<ct20>0</ct20>
+							<ct21>0</ct21>
+						</ChiTietKQQuyetToanThay>
+					</cacThongTinChiTieuThueTNCN><cacThongTinChiTieuThueTNCN id="ID_3">
+						<ct07>Nguyễn Phương Nam</ct07>
+						<ct08>0308397950</ct08>
+						<ct09>172422698</ct09>
+						<ct10>1</ct10>
+						<ThuNhapChiuThue>
+							<ct11>33636250</ct11>
+							<ct12>0</ct12>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct13>78000000</ct13>
+							<ct14>0</ct14>
+							<ct15>0</ct15>
+						</CacKhoanGiamTru>
+						<ct16>0</ct16>
+						<ct17>0</ct17>
+						<ct18>0</ct18>
+						<ChiTietKQQuyetToanThay>
+							<ct19>0</ct19>
+							<ct20>0</ct20>
+							<ct21>0</ct21>
+						</ChiTietKQQuyetToanThay>
+					</cacThongTinChiTieuThueTNCN><cacThongTinChiTieuThueTNCN id="ID_4">
+						<ct07>Ngô Mác Tuyn</ct07>
+						<ct08>8037815331</ct08>
+						<ct09>012547174</ct09>
+						<ct10>1</ct10>
+						<ThuNhapChiuThue>
+							<ct11>32114583</ct11>
+							<ct12>0</ct12>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct13>78000000</ct13>
+							<ct14>0</ct14>
+							<ct15>0</ct15>
+						</CacKhoanGiamTru>
+						<ct16>0</ct16>
+						<ct17>0</ct17>
+						<ct18>0</ct18>
+						<ChiTietKQQuyetToanThay>
+							<ct19>0</ct19>
+							<ct20>0</ct20>
+							<ct21>0</ct21>
+						</ChiTietKQQuyetToanThay>
+					</cacThongTinChiTieuThueTNCN></CHITIETCHIUTHUETNCN>
+				<ct22>158585833</ct22>
+				<ct23>0</ct23>
+				<ct24>312000000</ct24>
+				<ct25>0</ct25>
+				<ct26>0</ct26>
+				<ct27>0</ct27>
+				<ct28>0</ct28>
+				<ct29>0</ct29>
+				<ct30>0</ct30>
+				<ct31>0</ct31>
+				<ct32>0</ct32>
+			</PL05A_BK-TNCN>
+		</PLuc>
+	</HSoKhaiThue>
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>o6UkFP35lvbndn9xywWpxrtwarw=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>JtmfRU7DnNl1ActxGu3kYo4gZvXQGzggX4C116Uky/UvhmwKF6h0s838OMsxoHm3223NSj6DyD+z
+iRpcM+epQwMkwq0REJktjHa7Ydt7uoUVziqazj4VV/cvLViuiFtjAyI6+G919ba5nTzWe8/AJS2k
+XPPk1cD2LdwEDxMTtqU=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>mSfP1fH0k3yYeX0OROi4QSnWyvBtvP8acAY2aD8Xhj7OvEk2Gs+zKCIrSfARvCxdsVsUX/6tuC7P
+s/7EdhOL7AuYiJcIrGpigvk7ciCJrIIDJD6vJKXUL5WVFVSxlQZfeDsbTNSdE5MAK2noLR1icVRV
+QeM6cmv7ttdbFbat7fc=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>C=VN,ST=Hà Nội,L=Đống Đa,CN=Công Ty Cổ Phần Công Nghệ Và Đầu Tư NDQ  Việt Nam,UID=MST:0105968380</ds:X509SubjectName><ds:X509Certificate>MIIESzCCAzOgAwIBAgIQVAMlRAkMrjEuPZ+Q73DXLTANBgkqhkiG9w0BAQUFADBJMQswCQYDVQQG
+EwJWTjEOMAwGA1UEBxMFSGFub2kxGTAXBgNVBAoTEEJrYXYgQ29ycG9yYXRpb24xDzANBgNVBAMT
+BkJrYXZDQTAeFw0xMzAyMjIwNzIxMjVaFw0xNDA2MjQwNzIxMjVaMIGiMR4wHAYKCZImiZPyLGQB
+AQwOTVNUOjAxMDU5NjgzODAxSTBHBgNVBAMMQEPDtG5nIFR5IEPhu5UgUGjhuqduIEPDtG5nIE5n
+aOG7hyBWw6AgxJDhuqd1IFTGsCBORFEgIFZp4buHdCBOYW0xFDASBgNVBAcMC8SQ4buRbmcgxJBh
+MRIwEAYDVQQIDAlIw6AgTuG7mWkxCzAJBgNVBAYTAlZOMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCB
+iQKBgQCZJ8/V8fSTfJh5fQ5E6LhBKdbK8G28/xpwBjZoPxeGPs68STYaz7MoIitJ8BG8LF2xWxRf
+/q24Ls+z/sR2E4vsC5iIlwisamKC+TtyIImsggMkPq8kpdQvlZUVVLGVBl94OxtM1J0TkwAraegt
+HWJxVFVB4zpya/u211sVtq3t9wIDAQABo4IBVzCCAVMwMQYIKwYBBQUHAQEEJTAjMCEGCCsGAQUF
+BzABhhVodHRwOi8vb2NzcC5ia2F2Y2Eudm4wHQYDVR0OBBYEFK+Wxu7W0YS3uamV2hkWWN/pFMNn
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUPegjmX9I7YjnebenVTwrsMwDqN0wfwYDVR0fBHgw
+djB0oCOgIYYfaHR0cDovL2NybC5ia2F2Y2Eudm4vQmthdkNBLmNybKJNpEswSTEPMA0GA1UEAwwG
+QmthdkNBMRkwFwYDVQQKDBBCa2F2IENvcnBvcmF0aW9uMQ4wDAYDVQQHDAVIYW5vaTELMAkGA1UE
+BhMCVk4wDgYDVR0PAQH/BAQDAgeAMB8GA1UdJQQYMBYGCCsGAQUFBwMEBgorBgEEAYI3CgMMMB4G
+A1UdEQQXMBWBE2luZm9AbmRxdmlldG5hbS5jb20wDQYJKoZIhvcNAQEFBQADggEBAK1fNEcOdWD9
+WqxrJOWby0gEqghAEnjngjjXkfzbxqM7qfAWdYhLRWRpEFjKpzVjcu0UklKJn8SaVac113pIN5FZ
+tpPp/vZZJvn7+QhFKRixGntmb3IejaEZikdpECq1VQcleYGwHUP6eFTOYZfc71NRpkFc+A6gUelA
+L7BFAbSIc3NDNlINm/dy03wERzbUmCLIEtheLvev8UZLjxXrkveFxJiQVJ7xpo3jBo4E9lxl5lpb
+zMawMM9DsvHgoDC+/M+gJb2ULdnouPQit853kDR+L0XJu6vuDspjL8xxcF+F13u91Nw5rosNS6DJ
+IGEGdYe0vt/zpJIBOqI2HF3/RIY=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu></HSoThueDTu>
