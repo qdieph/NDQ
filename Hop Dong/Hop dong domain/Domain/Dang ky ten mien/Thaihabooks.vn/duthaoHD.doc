@@ -1,0 +1,1383 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="duthaoHD_files/filelist.xml">
+<title>Hi !</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="State"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="country-region"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>tuan</o:Author>
+  <o:LastAuthor>TO QUOC DIEP</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>11</o:TotalTime>
+  <o:LastPrinted>2005-05-13T11:29:00Z</o:LastPrinted>
+  <o:Created>2006-11-10T02:25:00Z</o:Created>
+  <o:LastSaved>2007-10-30T03:05:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>585</o:Words>
+  <o:Characters>3335</o:Characters>
+  <o:Company>saoviet</o:Company>
+  <o:Lines>27</o:Lines>
+  <o:Paragraphs>7</o:Paragraphs>
+  <o:CharactersWithSpaces>3913</o:CharactersWithSpaces>
+  <o:Version>11.8132</o:Version>
+ </o:DocumentProperties>
+ <o:CustomDocumentProperties>
+  <o:_AdHocReviewCycleID dt:dt="float">-2074689278</o:_AdHocReviewCycleID>
+  <o:_EmailSubject dt:dt="string">HopdongTMDT.doc</o:_EmailSubject>
+  <o:_AuthorEmail dt:dt="string">tuan@mailvn.com</o:_AuthorEmail>
+  <o:_AuthorEmailDisplayName dt:dt="string">Nguyen Anh Tuan</o:_AuthorEmailDisplayName>
+  <o:_PreviousAdHocReviewCycleID dt:dt="float">-1066828739</o:_PreviousAdHocReviewCycleID>
+  <o:_ReviewingToolsShownOnce dt:dt="string"></o:_ReviewingToolsShownOnce>
+ </o:CustomDocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:HideSpellingErrors/>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+   <w:UseWord97LineBreakingRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"\.VnTime";
+	panose-1:2 11 114 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"\.VnTimeH";
+	panose-1:2 11 114 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Geneva;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:Arial;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:Geneva;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	mso-outline-level:1;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:Geneva;
+	position:relative;
+	top:-3.0pt;
+	mso-text-raise:3.0pt;
+	mso-font-kerning:0pt;}
+h2
+	{mso-style-parent:"Heading 1";
+	mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	mso-outline-level:2;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"\.VnTime";
+	mso-bidi-font-family:"\.VnTimeH";
+	position:relative;
+	top:-3.0pt;
+	mso-text-raise:3.0pt;}
+h4
+	{mso-style-next:Normal;
+	margin-top:6.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	text-align:right;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	tab-stops:256.5pt;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"\.VnTime";
+	mso-bidi-font-weight:normal;}
+h5
+	{mso-style-next:Normal;
+	margin-top:3.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	text-align:center;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:Geneva;
+	mso-bidi-font-weight:normal;}
+h6
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:7;
+	text-autospace:none;
+	font-size:20.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"\.VnTimeH";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:center 3.0in right 6.0in;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:Geneva;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:center 3.0in right 6.0in;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:Geneva;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin-top:1.0pt;
+	margin-right:0in;
+	margin-bottom:1.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	tab-stops:right dotted 489.05pt;
+	font-size:13.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"\.VnTime";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.muc, li.muc, div.muc
+	{mso-style-name:muc;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:29.0pt;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:Geneva;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.article, li.article, div.article
+	{mso-style-name:article;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:Geneva;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.25in 840.0pt;
+	margin:.8in 56.9pt 1.1in 70.55pt;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:152987909;
+	mso-list-template-ids:-1779245950;}
+@list l0:level1
+	{mso-level-start-at:6;
+	mso-level-text:%1;
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l0:level2
+	{mso-level-start-at:2;
+	mso-level-text:"%1\.%2";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-text:"%1\.%2\.%3";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-.5in;}
+@list l0:level4
+	{mso-level-text:"%1\.%2\.%3\.%4";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.5in;}
+@list l0:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5";
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.75in;}
+@list l0:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6";
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	margin-left:2.0in;
+	text-indent:-.75in;}
+@list l0:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7";
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	margin-left:2.5in;
+	text-indent:-1.0in;}
+@list l0:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
+	mso-level-tab-stop:2.75in;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-1.0in;}
+@list l0:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	margin-left:3.0in;
+	text-indent:-1.0in;}
+@list l1
+	{mso-list-id:407390100;
+	mso-list-template-ids:-970805354;}
+@list l1:level1
+	{mso-level-start-at:5;
+	mso-level-text:%1;
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;
+	mso-ansi-font-weight:normal;}
+@list l1:level2
+	{mso-level-text:"4\.%2";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.25in;
+	mso-ansi-font-weight:normal;}
+@list l1:level3
+	{mso-level-text:"%1\.%2\.%3";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-.5in;
+	mso-ansi-font-weight:normal;}
+@list l1:level4
+	{mso-level-text:"%1\.%2\.%3\.%4";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.5in;
+	mso-ansi-font-weight:normal;}
+@list l1:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5";
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.75in;
+	mso-ansi-font-weight:normal;}
+@list l1:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6";
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	margin-left:2.0in;
+	text-indent:-.75in;
+	mso-ansi-font-weight:normal;}
+@list l1:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7";
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	margin-left:2.5in;
+	text-indent:-1.0in;
+	mso-ansi-font-weight:normal;}
+@list l1:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
+	mso-level-tab-stop:2.75in;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-1.0in;
+	mso-ansi-font-weight:normal;}
+@list l1:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	margin-left:3.0in;
+	text-indent:-1.0in;
+	mso-ansi-font-weight:normal;}
+@list l2
+	{mso-list-id:519858168;
+	mso-list-template-ids:937040230;}
+@list l2:level1
+	{mso-level-start-at:2;
+	mso-level-text:%1;
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l2:level2
+	{mso-level-text:"3\.%2";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.25in;
+	mso-ansi-font-weight:normal;}
+@list l2:level3
+	{mso-level-text:"%1\.%2\.%3";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-.5in;}
+@list l2:level4
+	{mso-level-text:"%1\.%2\.%3\.%4";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.5in;}
+@list l2:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5";
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.75in;}
+@list l2:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6";
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	margin-left:2.0in;
+	text-indent:-.75in;}
+@list l2:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7";
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	margin-left:2.5in;
+	text-indent:-1.0in;}
+@list l2:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
+	mso-level-tab-stop:2.75in;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-1.0in;}
+@list l2:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	margin-left:3.0in;
+	text-indent:-1.0in;}
+@list l3
+	{mso-list-id:805590843;
+	mso-list-type:simple;
+	mso-list-template-ids:67698689;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;
+	font-family:Symbol;
+	mso-bidi-font-family:Symbol;}
+@list l4
+	{mso-list-id:1258097335;
+	mso-list-template-ids:992608852;}
+@list l4:level1
+	{mso-level-start-at:6;
+	mso-level-text:%1;
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l4:level2
+	{mso-level-text:"%1\.%2";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.25in;}
+@list l4:level3
+	{mso-level-text:"%1\.%2\.%3";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-.5in;}
+@list l4:level4
+	{mso-level-text:"%1\.%2\.%3\.%4";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.5in;}
+@list l4:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5";
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.75in;}
+@list l4:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6";
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	margin-left:2.0in;
+	text-indent:-.75in;}
+@list l4:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7";
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	margin-left:2.5in;
+	text-indent:-1.0in;}
+@list l4:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
+	mso-level-tab-stop:2.75in;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-1.0in;}
+@list l4:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	margin-left:3.0in;
+	text-indent:-1.0in;}
+@list l5
+	{mso-list-id:1493256007;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1709470912 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l5:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6
+	{mso-list-id:1916083747;
+	mso-list-template-ids:1872264468;}
+@list l6:level1
+	{mso-level-start-at:3;
+	mso-level-text:%1;
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l6:level2
+	{mso-level-text:"2\.%2";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.25in;
+	mso-ansi-font-weight:normal;}
+@list l6:level3
+	{mso-level-text:"%1\.%2\.%3";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-.5in;}
+@list l6:level4
+	{mso-level-text:"%1\.%2\.%3\.%4";
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.5in;}
+@list l6:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5";
+	mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.75in;}
+@list l6:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6";
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	margin-left:2.0in;
+	text-indent:-.75in;}
+@list l6:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7";
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	margin-left:2.5in;
+	text-indent:-1.0in;}
+@list l6:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
+	mso-level-tab-stop:2.75in;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-1.0in;}
+@list l6:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	margin-left:3.0in;
+	text-indent:-1.0in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:none;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="3074"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=muc align=center style='margin-left:0in;text-align:center;line-height:
+130%;mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:130%;font-family:
+"Times New Roman"'>CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT <st1:country-region w:st="on"><st1:place
+ w:st="on">NAM</st1:place></st1:country-region></span></b> </p>
+
+<p class=muc align=center style='margin-left:0in;text-align:center;line-height:
+130%;mso-pagination:widow-orphan'><i style='mso-bidi-font-style:normal'><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:130%;font-family:
+"Times New Roman"'>Độc lập - Tự do - Hạnh phúc<o:p></o:p></span></i></p>
+
+<p class=muc align=center style='margin-left:0in;text-align:center;line-height:
+130%;mso-pagination:widow-orphan'><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;line-height:130%;font-family:"Times New Roman"'>-------------<span
+class=GramE>oOo</span>------------<o:p></o:p></span></p>
+
+<p class=muc align=center style='margin-left:0in;text-align:center;line-height:
+130%;mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:130%;font-family:
+"Times New Roman"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=muc align=center style='margin-left:0in;text-align:center;line-height:
+130%;mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:130%;font-family:
+"Times New Roman"'>HỢP ĐỒNG CUNG CẤP DỊCH VỤ ĐĂNG KÝ TÊN MIỀN<o:p></o:p></span></b></p>
+
+<p class=muc align=center style='margin-left:0in;text-align:center;line-height:
+130%;mso-pagination:widow-orphan'><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;line-height:130%;font-family:"Times New Roman"'>Số: ........-07/HĐKT-VIETDOT
+<o:p></o:p></span></p>
+
+<p class=muc align=center style='margin-left:0in;text-align:center;line-height:
+130%;mso-pagination:widow-orphan'><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;line-height:130%;font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;mso-pagination:widow-orphan;
+mso-list:l3 level1 lfo2;tab-stops:list .25in;text-autospace:ideograph-other'><![if !supportLists]><span
+style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><i style='mso-bidi-font-style:normal'><span
+style='font-size:10.0pt;font-family:"Times New Roman"'>Căn cứ luật Thương mại
+nước CHCHCN Việt <st1:country-region w:st="on"><st1:place w:st="on">Nam</st1:place></st1:country-region>
+năm 2005;<o:p></o:p></span></i></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;mso-pagination:widow-orphan;
+mso-list:l3 level1 lfo2;tab-stops:list .25in;text-autospace:ideograph-other'><![if !supportLists]><span
+style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><i style='mso-bidi-font-style:normal'><span
+style='font-size:10.0pt;font-family:"Times New Roman"'>Căn cứ Nghị định
+55/2001/NĐ-CP ngày 23 thắng 8 năm 2001 của Chính phủ về quản lý, cung cấp và sử
+dụng Internet;<o:p></o:p></span></i></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;mso-pagination:widow-orphan;
+mso-list:l3 level1 lfo2;tab-stops:list .25in;text-autospace:ideograph-other'><![if !supportLists]><span
+style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><i style='mso-bidi-font-style:normal'><span
+style='font-size:10.0pt;font-family:"Times New Roman"'>Căn cứ quyết định số
+27/2005/QĐ-BCVT ngày 11 tháng 8 năm 2005 của Bộ trưởng Bộ Bưu chính Viễn thông
+về việc ban hành Quy định về quản lý và sử dụng tài nguyên Internet<o:p></o:p></span></i></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;mso-pagination:widow-orphan;
+mso-list:l3 level1 lfo2;tab-stops:list .25in;text-autospace:ideograph-other'><![if !supportLists]><span
+style='font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><i style='mso-bidi-font-style:normal'><span
+style='font-size:10.0pt;font-family:"Times New Roman"'>Căn cứ yêu cầu của khách
+hàng và khả năng đáp ứng của Công ty TNHH Giải pháp trực tuyến;<o:p></o:p></span></i></p>
+
+<p class=MsoNormal style='margin-top:3.0pt;mso-pagination:widow-orphan;
+text-autospace:ideograph-other'><span style='font-size:10.0pt;font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=muc style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;line-height:130%;mso-pagination:widow-orphan'><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:130%;font-family:
+"Times New Roman"'>Hôm nay, ngày ... tháng ... năm ....., chúng tôi gồm:<o:p></o:p></span></p>
+
+<p class=muc style='margin-left:0in;text-align:justify;line-height:130%;
+mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:130%;font-family:
+"Times New Roman"'>Bên A:<span style='mso-tab-count:3'>                         </span>CÔNG
+TY SÁCH THÁI HÀ</span></b><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;line-height:130%;font-family:"Times New Roman"'><o:p></o:p></span></p>
+
+<p class=muc style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-pagination:widow-orphan;mso-list:l5 level1 lfo4;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;font-family:"Times New Roman"'>Địa chỉ<span style='mso-tab-count:2'>             </span>:
+P506, C3, làng Quốc tế Thăng Long, Cầu Giấy, HN<b style='mso-bidi-font-weight:
+normal'><o:p></o:p></b></span></p>
+
+<p class=muc style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-pagination:widow-orphan;mso-list:l5 level1 lfo4;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;font-family:"Times New Roman"'>Điện thoại<span style='mso-tab-count:
+1'>        </span>: 04. 756 9374 / 910 5627<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+
+<p class=muc style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-pagination:widow-orphan;mso-list:l5 level1 lfo4;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;font-family:"Times New Roman"'>Fax<span style='mso-tab-count:2'>                  </span>:
+04. 756 9374<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+
+<p class=muc style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-pagination:widow-orphan;mso-list:l5 level1 lfo4;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;font-family:"Times New Roman"'>Mã số thuế<span style='mso-tab-count:
+1'>       </span>: 0102300429<span style='mso-tab-count:1'>  </span><b
+style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+
+<p class=muc style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-pagination:widow-orphan;mso-list:l5 level1 lfo4;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;font-family:"Times New Roman"'>Do Ông<span style='mso-tab-count:1'>            </span><span
+style='mso-tab-count:1'>            </span>: Nguyễn Mạnh Hùng, Giám đốc làm đại
+diện <b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+
+<p class=muc style='margin-left:0in;text-align:justify;line-height:150%;
+mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
+"Times New Roman"'>Bên B:<span style='mso-tab-count:3'>                         </span>CÔNG
+TY CỔ PHẦN CN VÀ TM ĐIỆN TỬ CHẤM VIỆT<span style='mso-tab-count:2'>                        </span><o:p></o:p></span></b></p>
+
+<p class=muc style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-pagination:widow-orphan;mso-list:l5 level1 lfo4;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;font-family:"Times New Roman"'>Địa chỉ<span style='mso-tab-count:2'>             </span>:
+P1006, N2F Khu đô thị Trung Hoà, <st1:place w:st="on"><st1:City w:st="on">Nhân
+  Chính</st1:City>, <st1:State w:st="on">TX</st1:State></st1:place>, HN<o:p></o:p></span></p>
+
+<p class=muc style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-pagination:widow-orphan;mso-list:l5 level1 lfo4;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;font-family:"Times New Roman"'>Điện thoại<span style='mso-tab-count:
+1'>        </span>: 84-4-5568930<span style='mso-tab-count:2'>                        </span>Fax:
+84-4-5568930<span style='mso-tab-count:1'>      </span><o:p></o:p></span></p>
+
+<p class=muc style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-pagination:widow-orphan;mso-list:l5 level1 lfo4;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;font-family:"Times New Roman"'>Tài khoản<span style='mso-tab-count:1'>        </span>:
+11020370302017<span style='mso-tab-count:1'>      </span>Mã số thuế : 0102072074<o:p></o:p></span></p>
+
+<p class=muc style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-pagination:widow-orphan;mso-list:l5 level1 lfo4;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;font-family:"Times New Roman"'>Do Ông<span style='mso-tab-count:2'>                        </span>:
+Tô Quốc Điệp, PGĐ làm đại diện<span style='mso-tab-count:1'>      </span><o:p></o:p></span></p>
+
+<p class=muc style='margin-left:.25in;text-align:justify;mso-pagination:widow-orphan'><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=muc style='margin-left:0in;text-align:justify;line-height:150%;
+mso-pagination:widow-orphan'><i style='mso-bidi-font-style:normal'><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
+"Times New Roman"'>Cùng nhau nhất trí ký kết hợp đồngvới những điều khoản sau:<o:p></o:p></span></i></p>
+
+<p class=muc style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;line-height:130%;mso-pagination:widow-orphan'><b
+style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;line-height:130%;font-family:"Times New Roman"'>Điều 1<span
+style='mso-tab-count:2'>              </span>Nội dung Hợp đồng<o:p></o:p></span></b></p>
+
+<p class=muc style='margin-left:0in;text-align:justify;line-height:130%;
+mso-pagination:widow-orphan'><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;line-height:130%;font-family:"Times New Roman";letter-spacing:-.2pt'>Bên
+B cung cấp cho bên <span class=GramE>A</span> các dịch vụ sau: <o:p></o:p></span></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=640
+ style='width:480.3pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=45 valign=top style='width:33.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-left:0in;text-align:center;
+  mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Times New Roman"'>STT<o:p></o:p></span></b></p>
+  </td>
+  <td width=123 valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-left:0in;text-align:center;
+  mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Times New Roman"'>Nội dung<o:p></o:p></span></b></p>
+  </td>
+  <td width=217 valign=top style='width:163.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-left:0in;text-align:center;
+  mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Times New Roman"'>Tên miền<o:p></o:p></span></b></p>
+  </td>
+  <td width=95 valign=top style='width:70.9pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-left:0in;text-align:center;
+  mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Times New Roman"'>Đơn giá<br>
+  (VNĐ)<o:p></o:p></span></b></p>
+  </td>
+  <td width=76 valign=top style='width:56.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-left:0in;text-align:center;
+  mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Times New Roman"'>Thời hạn<o:p></o:p></span></b></p>
+  <p class=muc align=center style='margin-left:0in;text-align:center;
+  mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Times New Roman"'>(năm)<o:p></o:p></span></b></p>
+  </td>
+  <td width=85 valign=top style='width:63.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-left:0in;text-align:center;
+  mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:10.0pt;font-family:"Times New Roman"'>Thành tiền<br>
+  (VNĐ)<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=45 valign=top style='width:33.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>1<o:p></o:p></span></p>
+  </td>
+  <td width=123 valign=top style='width:92.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+  margin-left:0in;text-align:justify;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>Đăng ký tên miền<o:p></o:p></span></p>
+  </td>
+  <td width=217 valign=top style='width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>thaihabooks.vn<o:p></o:p></span></p>
+  </td>
+  <td width=95 valign=top style='width:70.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>450.000<o:p></o:p></span></p>
+  </td>
+  <td width=76 valign=top style='width:56.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>450.000<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=45 valign=top style='width:33.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>2<o:p></o:p></span></p>
+  </td>
+  <td width=123 valign=top style='width:92.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+  margin-left:0in;text-align:justify;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>Duy trì tên miền<o:p></o:p></span></p>
+  </td>
+  <td width=217 valign=top style='width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>thaihabooks.vn<o:p></o:p></span></p>
+  </td>
+  <td width=95 valign=top style='width:70.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>600.000<o:p></o:p></span></p>
+  </td>
+  <td width=76 valign=top style='width:56.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>1<o:p></o:p></span></p>
+  </td>
+  <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>600.000<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=45 valign=top style='width:33.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>3<o:p></o:p></span></p>
+  </td>
+  <td width=123 valign=top style='width:92.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+  margin-left:0in;mso-pagination:widow-orphan'><span style='font-size:11.0pt;
+  font-family:"Times New Roman"'>Đăng ký tên miền<o:p></o:p></span></p>
+  </td>
+  <td width=217 valign=top style='width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>thaihabooks.com.vn<o:p></o:p></span></p>
+  </td>
+  <td width=95 valign=top style='width:70.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>450.000<o:p></o:p></span></p>
+  </td>
+  <td width=76 valign=top style='width:56.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>450.000<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=45 valign=top style='width:33.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=123 valign=top style='width:92.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+  margin-left:0in;mso-pagination:widow-orphan'><span style='font-size:11.0pt;
+  font-family:"Times New Roman"'>Duy trì tên miền<o:p></o:p></span></p>
+  </td>
+  <td width=217 valign=top style='width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>thaihabooks.com.vn<o:p></o:p></span></p>
+  </td>
+  <td width=95 valign=top style='width:70.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>480.000<o:p></o:p></span></p>
+  </td>
+  <td width=76 valign=top style='width:56.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>1<o:p></o:p></span></p>
+  </td>
+  <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'>480.000<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+  <td width=45 valign=top style='width:33.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-top:6.0pt;margin-right:0in;
+  margin-bottom:6.0pt;margin-left:0in;text-align:center;mso-pagination:widow-orphan'><span
+  style='font-size:11.0pt;font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=123 valign=top style='width:92.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+  margin-left:0in;mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;font-family:"Times New Roman"'>Tổng cộng:<o:p></o:p></span></b></p>
+  </td>
+  <td width=473 colspan=4 valign=top style='width:354.4pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=right style='margin-top:6.0pt;margin-right:0in;margin-bottom:
+  6.0pt;margin-left:0in;text-align:right;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Times New Roman"'>1.980.000<o:p></o:p></span></b></p>
+  <p class=muc align=right style='margin-top:6.0pt;margin-right:0in;margin-bottom:
+  6.0pt;margin-left:0in;text-align:right;mso-pagination:widow-orphan'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Times New Roman"'>(Một triệu chín trăm tám mươi nghìn <span class=GramE>đồng
+  ./</span>)</span></b><span style='font-size:11.0pt;font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:
+"Times New Roman"'>Số tiền trên chưa bao gồm thuế VAT 0%<b style='mso-bidi-font-weight:
+normal'><o:p></o:p></b></span></p>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:
+150%;font-family:"Times New Roman"'>Trách nhiệm và quyền lợi của Bên A<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-list:l6 level2 lfo6;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>2.1<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>Cung
+cấp đầy đủ thông tin tên miền cho bên <span class=GramE>A</span> theo bản khai
+đăng ký tên miền.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-list:l6 level2 lfo6;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>2.2<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>Tuân
+thủ các quy định của pháp luật về sử dụng Internet và các quy định đã công bố
+trên website www.esc.vn (mục Hỗ trợ khách hàng);<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-list:l6 level2 lfo6;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>2.3<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>Thanh
+toán cho bên B đầy đủ đúng hạn ghi trong điều 5 của Hợp đồng này;<b
+style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-list:l6 level2 lfo6;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>2.4<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>Chủ
+động nộp phí duy trì tên miền trước khi hết thời hạn sử dụng, tự chịu trách
+nhiệm khi tên miền bị mất do hết hạn sử dụng mà không đóng phí.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.25in;text-align:justify'><b
+style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:
+150%;font-family:"Times New Roman"'>Điều 3: Trách nhiệm và quyền lợi của Bên B<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-list:l2 level2 lfo8;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>3.1<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>Hoàn
+thành việc khởi tạo tên miền trong vòng tối đa (01) tuần kể từ khi nhận được
+đầy đủ thông tin và tiền thanh toán của bên A.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-list:l2 level2 lfo8;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>3.2<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>Chuyển
+thông tin về tên miền và Giấy chứng nhận Đăng ký tên miền của VNNIC cấp (nếu
+có) cho bên A.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-list:l2 level2 lfo8;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>3.3<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>Thông
+báo cho bên A biết trước ít nhất 02 tuần trước khi hết hạn các dịch vụ đã cung
+cấp để bên A quyết định tiếp tục hay không tiếp tục sử dụng dịch vụ do bên B
+cung cấp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=muc style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;line-height:130%;mso-pagination:widow-orphan'><b
+style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;line-height:130%;font-family:"Times New Roman"'>Điều 4:<span
+style='mso-tab-count:1'>            </span>Kinh phí và phương thức thanh toán<o:p></o:p></span></b></p>
+
+<p class=muc style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-pagination:widow-orphan;mso-list:l1 level2 lfo10;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman";
+mso-bidi-font-weight:bold'><span style='mso-list:Ignore'>4.1<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>Hợp
+đồng này có tổng giá trị là: </span><b style='mso-bidi-font-weight:normal'><span
+style='font-size:11.0pt;font-family:"Times New Roman"'>1.980.000</span></b><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>
+<b>đồng<o:p></o:p></b></span></p>
+
+<p class=muc style='margin-left:.25in;text-align:justify;mso-pagination:widow-orphan'><span
+class=GramE><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:
+"Times New Roman"'>(<i> Bằng</i></span></span><i><span style='font-size:11.0pt;
+mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'> chữ: </span></i><i
+style='mso-bidi-font-style:normal'><span style='font-size:11.0pt;font-family:
+"Times New Roman"'>Một triệu chín trăm tám mươi nghìn đồng ./</span></i><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>).<o:p></o:p></span></p>
+
+<p class=muc style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-pagination:widow-orphan;mso-list:l1 level2 lfo10;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>4.2<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>Hình
+thức thanh toán bằng tiền mặt hoặc chuyển khoản và được thanh toán 1 lần ngay
+sau khi ký kết Hợp đồng.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:.25in'><span style='font-size:11.0pt;
+mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>Chi phí gia hạn sẽ
+được tính <span class=GramE>theo</span> bảng giá tại thời điểm gia hạn được
+công bố trên <a href="http://www.tenmien.vn/">www.tenmien.vn</a>.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:.25in'><span style='font-size:11.0pt;
+mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify;line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:
+150%;font-family:"Times New Roman"'>Điều 5: Điều khoản <span class=GramE>chung</span><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-list:l4 level2 lfo12;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>6.1<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>Tên
+miền là tài nguyên đặc biệt được cấp phát cho chủ thể nào đăng ký trước vì vậy
+Bên B chỉ cung cấp dịch vụ đăng ký những tên miền chưa có chủ thể khác đăng ký
+trong thời gian hoàn thành đăng ký tên miền và dưới sự chấp thuận của cơ quan
+quản lý tên miền.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-list:l4 level2 lfo12;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>6.2<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>Hai
+bên cam kết thực hiện đúng các điều khoản đã ghi trên Hợp đồng. Bất kỳ sự thay
+đổi nào trong Hợp đồng này cũng phải có sự nhất trí bằng văn bản của cả hai bên.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-list:l0 level2 lfo14;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>6.2<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>Trong
+trường hợp có vấn đề phát sinh phải thông báo cho nhau để cùng bàn bạc giải
+quyết. Mọi thoả thuận phải có văn bản đính kèm và được coi là phụ lục của Hợp
+đồng. Trường hợp một bên <span class=GramE>vi</span> phạm gây thiệt hại cho
+phía bên kia, bên vi phạm phải chịu trách nhiệm bồi thường thiệt hại. Trong
+trường hợp không thể giải quyết được bất đồng, bất đồng đó sẽ được giải quyết
+tại toà án kinh tế Việt <st1:country-region w:st="on"><st1:place w:st="on">Nam</st1:place></st1:country-region><span
+class=GramE>.<st1:country-region w:st="on"></st1:country-region>.</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.25in;
+mso-list:l0 level2 lfo14;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><span
+style='mso-list:Ignore'>6.3<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'>Hợp
+đồng được lập thành hai (02) bản có giá trị như nhau, mỗi bên giữ 01 bản và có
+hiệu lực kể từ ngày ký<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=315 valign=top style='width:236.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-left:0in;text-align:center;
+  line-height:150%;mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:
+  150%;font-family:"Times New Roman"'>T/M Bên A<o:p></o:p></span></b></p>
+  </td>
+  <td width=315 valign=top style='width:236.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=muc align=center style='margin-left:0in;text-align:center;
+  line-height:150%;mso-pagination:widow-orphan'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:
+  150%;font-family:"Times New Roman"'>T/M Bên B<br style='mso-special-character:
+  line-break'>
+  <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+  <![endif]><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=muc style='margin-left:0in;text-align:justify;line-height:150%;
+mso-pagination:widow-orphan'><span style='font-size:11.0pt;mso-bidi-font-size:
+12.0pt;line-height:150%;font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=muc style='margin-left:0in;line-height:150%;mso-pagination:widow-orphan'><span
+style='font-size:11.0pt;line-height:150%'><o:p>&nbsp;</o:p></span></p>
+
+<p class=muc style='margin-left:0in;line-height:150%;mso-pagination:widow-orphan'><span
+style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
