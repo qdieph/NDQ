@@ -1,34 +1,8 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Đây là tài liệu Công ty NDQ Việt Nam
 
-### What is this repository for? ###
+#Quick summary
 
-* Quick summary
-Đây là tài liệu Công ty NDQ
-* Version
-1.0
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Các thành viên sau khi thay đổi nhớ commit và push lên server để mọi người theo dõi
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-Các thành viên quản trị bao gồm:
-dieptq
-
-* Other community or team contact
