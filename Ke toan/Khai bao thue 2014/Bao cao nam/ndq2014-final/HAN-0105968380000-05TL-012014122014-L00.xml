@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<HSoKhaiThue id="_NODE_TO_SIGN">
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.3.0</pbanDVu>
+				<ttinNhaCCapDVu/>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>42</maTKhai>
+					<tenTKhai>TỜ KHAI QUYẾT TOÁN THUẾ THU NHẬP CÁ NHÂN - MẪU SỐ 05/KK-TNCN</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 156/2013/TT-BTC ngày 06/11/2013 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.8</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Y</kieuKy>
+						<kyKKhai>2014</kyKKhai>
+						<kyKKhaiTuNgay/>
+						<kyKKhaiDenNgay/>
+						<kyKKhaiTuThang>01/2014</kyKKhaiTuThang>
+						<kyKKhaiDenThang>12/2014</kyKKhaiDenThang>
+					</KyKKhaiThue>
+					<maCQTNoiNop>10109</maCQTNoiNop>
+					<tenCQTNoiNop>Chi cục Thuế Quận Đống đa</tenCQTNoiNop>
+					<ngayLapTKhai>2015-03-30</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan/>
+						<lyDoGiaHan/>
+					</GiaHan>
+					<nguoiKy/>
+					<ngayKy>2015-03-30</ngayKy>
+					<nganhNgheKD/>
+				</TKhaiThue>
+				<NNT>
+					<mst>0105968380</mst>
+					<tenNNT>Công ty CP Công nghệ và Đầu Tư NDQ Việt Nam</tenNNT>
+					<dchiNNT>Số 12 ngách 33/15B Cát Linh</dchiNNT>
+					<phuongXa/>
+					<maHuyenNNT/>
+					<tenHuyenNNT>Đống Đa</tenHuyenNNT>
+					<maTinhNNT/>
+					<tenTinhNNT>Hà Nội</tenTinhNNT>
+					<dthoaiNNT>0444500745</dthoaiNNT>
+					<faxNNT/>
+					<emailNNT>info@ndqvietnam.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<dnCDoiLHinhHoacHNhat>0</dnCDoiLHinhHoacHNhat>
+			<lyDo/>
+			<NghiaVuKhauTruThue>
+				<TongSoNguoiLDong>
+					<ct21>14</ct21>
+					<ct22>14</ct22>
+				</TongSoNguoiLDong>
+				<TongCaNhanDaKhauTru>
+					<ct23>0</ct23>
+					<ct24>0</ct24>
+					<ct25>0</ct25>
+				</TongCaNhanDaKhauTru>
+				<TongCNhanMThueTheoHDinh>
+					<ct26>0</ct26>
+				</TongCNhanMThueTheoHDinh>
+				<TongTNCTTraChoCNhan>
+					<ct27>237500000</ct27>
+					<ct28>237500000</ct28>
+					<ct29>0</ct29>
+					<ct30>0</ct30>
+				</TongTNCTTraChoCNhan>
+				<TongTNCNTraChoCNKTru>
+					<ct31>0</ct31>
+					<ct32>0</ct32>
+					<ct33>0</ct33>
+					<ct34>0</ct34>
+				</TongTNCNTraChoCNKTru>
+				<TongSoThueTNCNDaKTru>
+					<ct35>0</ct35>
+					<ct36>0</ct36>
+					<ct37>0</ct37>
+					<ct38>0</ct38>
+				</TongSoThueTNCNDaKTru>
+				<TongSoThueDuocGiam>
+					<ct39>0</ct39>
+					<ct40>0</ct40>
+					<ct41>0</ct41>
+					<ct42>0</ct42>
+				</TongSoThueDuocGiam>
+			</NghiaVuKhauTruThue>
+			<NghiaVuQuyetToanThay>
+				<ct43>0</ct43>
+				<ct44>0</ct44>
+				<ct45>0</ct45>
+				<ct46>0</ct46>
+				<ct47>0</ct47>
+			</NghiaVuQuyetToanThay>
+		</CTieuTKhaiChinh>
+		<PLuc>
+			<PLuc_05_1_BK>
+				<BKeThueTNCNCTruCoHDong>
+					<ChiTietBangKe id="ID_1">
+						<coDieuChinhSoLieu>0</coDieuChinhSoLieu>
+						<ct07>Tô Quốc Điệp</ct07>
+						<ct08>0103269108</ct08>
+						<ct09/>
+						<ct10>0</ct10>
+						<ThuNhapChiuThue>
+							<ct11>47000000</ct11>
+							<ct12>0</ct12>
+							<ct13>0</ct13>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct14>58500000</ct14>
+							<ct15>0</ct15>
+							<ct16>0</ct16>
+							<ct17>0</ct17>
+						</CacKhoanGiamTru>
+						<ct18>0</ct18>
+						<ct19>0</ct19>
+						<ct20>0</ct20>
+						<ChiTietKQQuyetToanThay>
+							<ct21>0</ct21>
+							<ct22>0</ct22>
+							<ct23>0</ct23>
+						</ChiTietKQQuyetToanThay>
+					</ChiTietBangKe><ChiTietBangKe id="ID_2">
+						<coDieuChinhSoLieu>0</coDieuChinhSoLieu>
+						<ct07>Nguyễn Phương Nam</ct07>
+						<ct08>8079766090</ct08>
+						<ct09/>
+						<ct10>0</ct10>
+						<ThuNhapChiuThue>
+							<ct11>18000000</ct11>
+							<ct12>0</ct12>
+							<ct13>0</ct13>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct14>58500000</ct14>
+							<ct15>0</ct15>
+							<ct16>0</ct16>
+							<ct17>0</ct17>
+						</CacKhoanGiamTru>
+						<ct18>0</ct18>
+						<ct19>0</ct19>
+						<ct20>0</ct20>
+						<ChiTietKQQuyetToanThay>
+							<ct21>0</ct21>
+							<ct22>0</ct22>
+							<ct23>0</ct23>
+						</ChiTietKQQuyetToanThay>
+					</ChiTietBangKe><ChiTietBangKe id="ID_3">
+						<coDieuChinhSoLieu>0</coDieuChinhSoLieu>
+						<ct07>Đặng Thăng Long</ct07>
+						<ct08 xsi:nil="true"/>
+						<ct09>011844556</ct09>
+						<ct10>0</ct10>
+						<ThuNhapChiuThue>
+							<ct11>15000000</ct11>
+							<ct12>0</ct12>
+							<ct13>0</ct13>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct14>58500000</ct14>
+							<ct15>0</ct15>
+							<ct16>0</ct16>
+							<ct17>0</ct17>
+						</CacKhoanGiamTru>
+						<ct18>0</ct18>
+						<ct19>0</ct19>
+						<ct20>0</ct20>
+						<ChiTietKQQuyetToanThay>
+							<ct21>0</ct21>
+							<ct22>0</ct22>
+							<ct23>0</ct23>
+						</ChiTietKQQuyetToanThay>
+					</ChiTietBangKe><ChiTietBangKe id="ID_4">
+						<coDieuChinhSoLieu>0</coDieuChinhSoLieu>
+						<ct07>Nguyễn Cường Thịnh</ct07>
+						<ct08>8026612594</ct08>
+						<ct09/>
+						<ct10>0</ct10>
+						<ThuNhapChiuThue>
+							<ct11>56000000</ct11>
+							<ct12>0</ct12>
+							<ct13>0</ct13>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct14>58500000</ct14>
+							<ct15>0</ct15>
+							<ct16>0</ct16>
+							<ct17>0</ct17>
+						</CacKhoanGiamTru>
+						<ct18>0</ct18>
+						<ct19>0</ct19>
+						<ct20>0</ct20>
+						<ChiTietKQQuyetToanThay>
+							<ct21>0</ct21>
+							<ct22>0</ct22>
+							<ct23>0</ct23>
+						</ChiTietKQQuyetToanThay>
+					</ChiTietBangKe><ChiTietBangKe id="ID_5">
+						<coDieuChinhSoLieu>0</coDieuChinhSoLieu>
+						<ct07>Trần Duy Hoàng</ct07>
+						<ct08 xsi:nil="true"/>
+						<ct09>196864354</ct09>
+						<ct10>0</ct10>
+						<ThuNhapChiuThue>
+							<ct11>17000000</ct11>
+							<ct12>0</ct12>
+							<ct13>0</ct13>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct14>18000000</ct14>
+							<ct15>0</ct15>
+							<ct16>0</ct16>
+							<ct17>0</ct17>
+						</CacKhoanGiamTru>
+						<ct18>0</ct18>
+						<ct19>0</ct19>
+						<ct20>0</ct20>
+						<ChiTietKQQuyetToanThay>
+							<ct21>0</ct21>
+							<ct22>0</ct22>
+							<ct23>0</ct23>
+						</ChiTietKQQuyetToanThay>
+					</ChiTietBangKe><ChiTietBangKe id="ID_6">
+						<coDieuChinhSoLieu>0</coDieuChinhSoLieu>
+						<ct07>Nguyễn Văn Đạt</ct07>
+						<ct08 xsi:nil="true"/>
+						<ct09>0170729950</ct09>
+						<ct10>0</ct10>
+						<ThuNhapChiuThue>
+							<ct11>13000000</ct11>
+							<ct12>0</ct12>
+							<ct13>0</ct13>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct14>18000000</ct14>
+							<ct15>0</ct15>
+							<ct16>0</ct16>
+							<ct17>0</ct17>
+						</CacKhoanGiamTru>
+						<ct18>0</ct18>
+						<ct19>0</ct19>
+						<ct20>0</ct20>
+						<ChiTietKQQuyetToanThay>
+							<ct21>0</ct21>
+							<ct22>0</ct22>
+							<ct23>0</ct23>
+						</ChiTietKQQuyetToanThay>
+					</ChiTietBangKe><ChiTietBangKe id="ID_7">
+						<coDieuChinhSoLieu>0</coDieuChinhSoLieu>
+						<ct07>Bùi Quang Tuấn</ct07>
+						<ct08 xsi:nil="true"/>
+						<ct09>145799630</ct09>
+						<ct10>0</ct10>
+						<ThuNhapChiuThue>
+							<ct11>9000000</ct11>
+							<ct12>0</ct12>
+							<ct13>0</ct13>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct14>9000000</ct14>
+							<ct15>0</ct15>
+							<ct16>0</ct16>
+							<ct17>0</ct17>
+						</CacKhoanGiamTru>
+						<ct18>0</ct18>
+						<ct19>0</ct19>
+						<ct20>0</ct20>
+						<ChiTietKQQuyetToanThay>
+							<ct21>0</ct21>
+							<ct22>0</ct22>
+							<ct23>0</ct23>
+						</ChiTietKQQuyetToanThay>
+					</ChiTietBangKe><ChiTietBangKe id="ID_8">
+						<coDieuChinhSoLieu>0</coDieuChinhSoLieu>
+						<ct07>Đồng Văn Hà</ct07>
+						<ct08>8305411552</ct08>
+						<ct09>142376033</ct09>
+						<ct10>0</ct10>
+						<ThuNhapChiuThue>
+							<ct11>9000000</ct11>
+							<ct12>0</ct12>
+							<ct13>0</ct13>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct14>9000000</ct14>
+							<ct15>0</ct15>
+							<ct16>0</ct16>
+							<ct17>0</ct17>
+						</CacKhoanGiamTru>
+						<ct18>0</ct18>
+						<ct19>0</ct19>
+						<ct20>0</ct20>
+						<ChiTietKQQuyetToanThay>
+							<ct21>0</ct21>
+							<ct22>0</ct22>
+							<ct23>0</ct23>
+						</ChiTietKQQuyetToanThay>
+					</ChiTietBangKe><ChiTietBangKe id="ID_9">
+						<coDieuChinhSoLieu>0</coDieuChinhSoLieu>
+						<ct07>Bùi Thành Lương</ct07>
+						<ct08 xsi:nil="true"/>
+						<ct09>152357315</ct09>
+						<ct10>0</ct10>
+						<ThuNhapChiuThue>
+							<ct11>9000000</ct11>
+							<ct12>0</ct12>
+							<ct13>0</ct13>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct14>9000000</ct14>
+							<ct15>0</ct15>
+							<ct16>0</ct16>
+							<ct17>0</ct17>
+						</CacKhoanGiamTru>
+						<ct18>0</ct18>
+						<ct19>0</ct19>
+						<ct20>0</ct20>
+						<ChiTietKQQuyetToanThay>
+							<ct21>0</ct21>
+							<ct22>0</ct22>
+							<ct23>0</ct23>
+						</ChiTietKQQuyetToanThay>
+					</ChiTietBangKe><ChiTietBangKe id="ID_10">
+						<coDieuChinhSoLieu>0</coDieuChinhSoLieu>
+						<ct07>Đỗ Gia Trọng</ct07>
+						<ct08 xsi:nil="true"/>
+						<ct09>013595272</ct09>
+						<ct10>0</ct10>
+						<ThuNhapChiuThue>
+							<ct11>9000000</ct11>
+							<ct12>0</ct12>
+							<ct13>0</ct13>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct14>9000000</ct14>
+							<ct15>0</ct15>
+							<ct16>0</ct16>
+							<ct17>0</ct17>
+						</CacKhoanGiamTru>
+						<ct18>0</ct18>
+						<ct19>0</ct19>
+						<ct20>0</ct20>
+						<ChiTietKQQuyetToanThay>
+							<ct21>0</ct21>
+							<ct22>0</ct22>
+							<ct23>0</ct23>
+						</ChiTietKQQuyetToanThay>
+					</ChiTietBangKe><ChiTietBangKe id="ID_11">
+						<coDieuChinhSoLieu>0</coDieuChinhSoLieu>
+						<ct07>Nguyễn Văn Chung</ct07>
+						<ct08>8032670097</ct08>
+						<ct09>031323031</ct09>
+						<ct10>0</ct10>
+						<ThuNhapChiuThue>
+							<ct11>9000000</ct11>
+							<ct12>0</ct12>
+							<ct13>0</ct13>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct14>9000000</ct14>
+							<ct15>0</ct15>
+							<ct16>0</ct16>
+							<ct17>0</ct17>
+						</CacKhoanGiamTru>
+						<ct18>0</ct18>
+						<ct19>0</ct19>
+						<ct20>0</ct20>
+						<ChiTietKQQuyetToanThay>
+							<ct21>0</ct21>
+							<ct22>0</ct22>
+							<ct23>0</ct23>
+						</ChiTietKQQuyetToanThay>
+					</ChiTietBangKe><ChiTietBangKe id="ID_12">
+						<coDieuChinhSoLieu>0</coDieuChinhSoLieu>
+						<ct07>Nguyễn Văn Thủy</ct07>
+						<ct08>8350903228</ct08>
+						<ct09>135676261</ct09>
+						<ct10>0</ct10>
+						<ThuNhapChiuThue>
+							<ct11>9000000</ct11>
+							<ct12>0</ct12>
+							<ct13>0</ct13>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct14>9000000</ct14>
+							<ct15>0</ct15>
+							<ct16>0</ct16>
+							<ct17>0</ct17>
+						</CacKhoanGiamTru>
+						<ct18>0</ct18>
+						<ct19>0</ct19>
+						<ct20>0</ct20>
+						<ChiTietKQQuyetToanThay>
+							<ct21>0</ct21>
+							<ct22>0</ct22>
+							<ct23>0</ct23>
+						</ChiTietKQQuyetToanThay>
+					</ChiTietBangKe><ChiTietBangKe id="ID_13">
+						<coDieuChinhSoLieu>0</coDieuChinhSoLieu>
+						<ct07>Hoàng Văn Đông</ct07>
+						<ct08>8042050487</ct08>
+						<ct09>142391367</ct09>
+						<ct10>0</ct10>
+						<ThuNhapChiuThue>
+							<ct11>9000000</ct11>
+							<ct12>0</ct12>
+							<ct13>0</ct13>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct14>9000000</ct14>
+							<ct15>0</ct15>
+							<ct16>0</ct16>
+							<ct17>0</ct17>
+						</CacKhoanGiamTru>
+						<ct18>0</ct18>
+						<ct19>0</ct19>
+						<ct20>0</ct20>
+						<ChiTietKQQuyetToanThay>
+							<ct21>0</ct21>
+							<ct22>0</ct22>
+							<ct23>0</ct23>
+						</ChiTietKQQuyetToanThay>
+					</ChiTietBangKe><ChiTietBangKe id="ID_14">
+						<coDieuChinhSoLieu>0</coDieuChinhSoLieu>
+						<ct07>Bùi Hồng Trường</ct07>
+						<ct08>8029883088</ct08>
+						<ct09>131361828</ct09>
+						<ct10>0</ct10>
+						<ThuNhapChiuThue>
+							<ct11>8500000</ct11>
+							<ct12>0</ct12>
+							<ct13>0</ct13>
+						</ThuNhapChiuThue>
+						<CacKhoanGiamTru>
+							<ct14>9000000</ct14>
+							<ct15>0</ct15>
+							<ct16>0</ct16>
+							<ct17>0</ct17>
+						</CacKhoanGiamTru>
+						<ct18>0</ct18>
+						<ct19>0</ct19>
+						<ct20>0</ct20>
+						<ChiTietKQQuyetToanThay>
+							<ct21>0</ct21>
+							<ct22>0</ct22>
+							<ct23>0</ct23>
+						</ChiTietKQQuyetToanThay>
+					</ChiTietBangKe></BKeThueTNCNCTruCoHDong>
+				<ct24>237500000</ct24>
+				<ct25>0</ct25>
+				<ct26>0</ct26>
+				<ct27>342000000</ct27>
+				<ct28>0</ct28>
+				<ct29>0</ct29>
+				<ct30>0</ct30>
+				<ct31>0</ct31>
+				<ct32>0</ct32>
+				<ct33>0</ct33>
+				<ct34>0</ct34>
+				<ct35>0</ct35>
+				<ct36>0</ct36>
+			</PLuc_05_1_BK></PLuc>
+	</HSoKhaiThue>
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>z2fXPrh7YS8Hiq+xyhYPztN2i+8=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>Wy1rag+Xa7qIyjJsuqqnW1tVQtqV6tqX3jpEC6CMsMfnS2Gj0CdtLgpry2hiG+bqh6ZLyOW1soXM
+L55IjY6JgG7HwYSexgn30jVwMXQ3Hh4RLm02rdQnYIhCEtDlWL8SfyeyAVchHa2vqQRdC2R9e7Up
+KdZ5XMv2byIjeXNWa5w=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>i6CqmaK2HZjNXcZRriORjOD8LuXQLhURln/tliGJimGITkyUm0dQGA18t+9+T0qNQPCaOAOQehzr
+ac/obhvnn5RpfSSc5IcbUf/m/Ry4MGIZIv4Q+B3SbupcQjfuMp8J+pOn3qJrcmf+sO/ZwLJsulvd
+6nRJWozwwmraozDNmjM=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>C=VN,ST=Hà Nội,L=Đống Đa,CN=Công Ty Cổ Phần Công Nghệ Và Đầu Tư NDQ  Việt Nam,UID=MST:0105968380</ds:X509SubjectName><ds:X509Certificate>MIIESzCCAzOgAwIBAgIQVAMAmcYMHyQy/BMVBWDyQjANBgkqhkiG9w0BAQUFADBJMQswCQYDVQQG
+EwJWTjEOMAwGA1UEBxMFSGFub2kxGTAXBgNVBAoTEEJrYXYgQ29ycG9yYXRpb24xDzANBgNVBAMT
+BkJrYXZDQTAeFw0xNDA2MjEwODE1MzlaFw0xNTA3MTQwNzQ3NDVaMIGiMR4wHAYKCZImiZPyLGQB
+AQwOTVNUOjAxMDU5NjgzODAxSTBHBgNVBAMMQEPDtG5nIFR5IEPhu5UgUGjhuqduIEPDtG5nIE5n
+aOG7hyBWw6AgxJDhuqd1IFTGsCBORFEgIFZp4buHdCBOYW0xFDASBgNVBAcMC8SQ4buRbmcgxJBh
+MRIwEAYDVQQIDAlIw6AgTuG7mWkxCzAJBgNVBAYTAlZOMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCB
+iQKBgQCLoKqZorYdmM1dxlGuI5GM4Pwu5dAuFRGWf+2WIYmKYYhOTJSbR1AYDXy3735PSo1A8Jo4
+A5B6HOtpz+huG+eflGl9JJzkhxtR/+b9HLgwYhki/hD4HdJu6lxCN+4ynwn6k6feomtyZ/6w79nA
+smy6W93qdElajPDCatqjMM2aMwIDAQABo4IBVzCCAVMwMQYIKwYBBQUHAQEEJTAjMCEGCCsGAQUF
+BzABhhVodHRwOi8vb2NzcC5ia2F2Y2Eudm4wHQYDVR0OBBYEFD9oE6P/dIey5BscbKu++9cb7DCv
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUPegjmX9I7YjnebenVTwrsMwDqN0wfwYDVR0fBHgw
+djB0oCOgIYYfaHR0cDovL2NybC5ia2F2Y2Eudm4vQmthdkNBLmNybKJNpEswSTEPMA0GA1UEAwwG
+QmthdkNBMRkwFwYDVQQKDBBCa2F2IENvcnBvcmF0aW9uMQ4wDAYDVQQHDAVIYW5vaTELMAkGA1UE
+BhMCVk4wDgYDVR0PAQH/BAQDAgeAMB8GA1UdJQQYMBYGCCsGAQUFBwMEBgorBgEEAYI3CgMMMB4G
+A1UdEQQXMBWBE2luZm9AbmRxdmlldG5hbS5jb20wDQYJKoZIhvcNAQEFBQADggEBABLe6sTlKNiS
+m867KHxxaE3uzo1JA5FrWqCV3MAWhS/9LFlRHlP114qai92HBEnjFHnRLd93rN3EH904yYqmYndq
+k84m4LBEbdMDQzLJeL8mQUy5EZi2wgH/YxGGqHhIU1IEv3PegPZ3CMjjHBsAU2pMPzmCvmr18AEJ
+PqvU/rlOatP04vizJQjepQtzKMeV6wXR20gaYGNgQK1fKsEy3nV4RGhTsXbNktnWqn+/bEqgwG1d
+7Ys3Z1RSzLYdx3qZAf809Sw1ix/Fb7r2Qe+eNZBQgTu/VvmQGgp8vjaWmcmTMiYMNVcSxv1lnpPe
+XUP8tVewU6C9+QALBu+HNDat/Ec=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu></HSoThueDTu>
