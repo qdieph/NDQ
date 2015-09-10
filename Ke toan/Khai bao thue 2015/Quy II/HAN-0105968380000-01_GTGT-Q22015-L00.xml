@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<HSoKhaiThue id="ID_18">
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.3.2</pbanDVu>
+				<ttinNhaCCapDVu/>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>01</maTKhai>
+					<tenTKhai>TỜ KHAI THUẾ GIÁ TRỊ GIA TĂNG (Mẫu số 01/GTGT)</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 119/2014/TT-BTC ngày 25/8/2014 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.7</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Q</kieuKy>
+						<kyKKhai>2/2015</kyKKhai>
+						<kyKKhaiTuNgay>01/04/2015</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>30/06/2015</kyKKhaiDenNgay>
+						<kyKKhaiTuThang/>
+						<kyKKhaiDenThang/>
+					</KyKKhaiThue>
+					<maCQTNoiNop>10109</maCQTNoiNop>
+					<tenCQTNoiNop>Chi cục Thuế Quận Đống đa</tenCQTNoiNop>
+					<ngayLapTKhai>2015-07-29</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan/>
+						<lyDoGiaHan/>
+					</GiaHan>
+					<nguoiKy>Tô Quốc Điệp</nguoiKy>
+					<ngayKy>2015-07-29</ngayKy>
+					<nganhNgheKD>Đầu tư, các nghành liên quan đến máy tính</nganhNgheKD>
+				</TKhaiThue>
+				<NNT>
+					<mst>0105968380</mst>
+					<tenNNT>Công ty Cổ phần Công nghệ và Đầu tư NDQ Vệt Nam</tenNNT>
+					<dchiNNT>Số 12 nghách 33/15B Cát Linh, Quận Đống Đa, Thành phố Hà Nội</dchiNNT>
+					<phuongXa/>
+					<maHuyenNNT/>
+					<tenHuyenNNT>Đống Đa</tenHuyenNNT>
+					<maTinhNNT/>
+					<tenTinhNNT>Hà Nội</tenTinhNNT>
+					<dthoaiNNT>04. 44500745</dthoaiNNT>
+					<faxNNT/>
+					<emailNNT>info@ndqvietnam.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<tieuMucHachToan>1701</tieuMucHachToan>
+			<ct21>0</ct21>
+			<ct22>273174</ct22>
+			<GiaTriVaThueGTGTHHDVMuaVao>
+				<ct23>0</ct23>
+				<ct24>581949</ct24>
+			</GiaTriVaThueGTGTHHDVMuaVao>
+			<ct25>581949</ct25>
+			<ct26>208673000</ct26>
+			<HHDVBRaChiuThueGTGT>
+				<ct27>720000</ct27>
+				<ct28>72000</ct28>
+			</HHDVBRaChiuThueGTGT>
+			<ct29>0</ct29>
+			<HHDVBRaChiuTSuat5>
+				<ct30>0</ct30>
+				<ct31>0</ct31>
+			</HHDVBRaChiuTSuat5>
+			<HHDVBRaChiuTSuat10>
+				<ct32>720000</ct32>
+				<ct33>72000</ct33>
+			</HHDVBRaChiuTSuat10>
+			<TongDThuVaThueGTGTHHDVBRa>
+				<ct34>209393000</ct34>
+				<ct35>72000</ct35>
+			</TongDThuVaThueGTGTHHDVBRa>
+			<ct36>-509949</ct36>
+			<ct37>0</ct37>
+			<ct38>0</ct38>
+			<ct39>0</ct39>
+			<ct40a>0</ct40a>
+			<ct40b>0</ct40b>
+			<ct40>0</ct40>
+			<ct41>783123</ct41>
+			<ct42>0</ct42>
+			<ct43>783123</ct43>
+		</CTieuTKhaiChinh>
+		<PLuc>
+			<PL01_1_GTGT>
+				<HHDVKChiuThue>
+					<ChiTietHHDVKChiuThue>
+						<HDonBRa id="ID_1">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000164</soHDon>
+							<ngayPHanh>2015-04-06</ngayPHanh>
+							<tenNMUA>Hội thiết bị Y tế Việt Nam</tenNMUA>
+							<mstNMUA xsi:nil="true"/>
+							<matHang/>
+							<dsoBanChuaThue>5000000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_2">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000165</soHDon>
+							<ngayPHanh>2015-04-20</ngayPHanh>
+							<tenNMUA>Công ty TNHH Thương mại Xuất nhập khẩu Lê Ngọc</tenNMUA>
+							<mstNMUA>0106090758</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>1400000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_3">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000166</soHDon>
+							<ngayPHanh>2015-04-20</ngayPHanh>
+							<tenNMUA>Công ty TNHH Đầu tư Phát triển Thương mại và Dịch vụ Thái An</tenNMUA>
+							<mstNMUA>0105869051</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>1000000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_4">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000168</soHDon>
+							<ngayPHanh>2015-06-02</ngayPHanh>
+							<tenNMUA>Trung tâm Thông tin UNESCO</tenNMUA>
+							<mstNMUA>0104971951</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>480000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_5">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000169</soHDon>
+							<ngayPHanh>2015-06-04</ngayPHanh>
+							<tenNMUA>Công ty CP Công nghệ Thông tin Viễn thông và Tự động hóa Dầu Khí</tenNMUA>
+							<mstNMUA>0103349508</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>196000000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_6">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000170</soHDon>
+							<ngayPHanh>2015-06-24</ngayPHanh>
+							<tenNMUA>Công ty CP Thẩm định giá và Dịch vụ Tài chính Hà Nội</tenNMUA>
+							<mstNMUA>0102925759</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>4793000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonBRa></ChiTietHHDVKChiuThue>
+					<tongDThuBRaKChiuThue>208673000</tongDThuBRaKChiuThue>
+				</HHDVKChiuThue>
+				<HHDVThue0>
+					<ChiTietHHDVThue0>
+					</ChiTietHHDVThue0>
+					<tongDThuBRaThue0>0</tongDThuBRaThue0>
+					<tongThueBRaThue0>0</tongThueBRaThue0>
+				</HHDVThue0>
+				<HHDVThue5>
+					<ChiTietHHDVThue5>
+					</ChiTietHHDVThue5>
+					<tongDThuBRaThue5>0</tongDThuBRaThue5>
+					<tongThueBRaThue5>0</tongThueBRaThue5>
+				</HHDVThue5>
+				<HHDVThue10>
+					<ChiTietHHDVThue10>
+						<HDonBRa id="ID_1">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000167</soHDon>
+							<ngayPHanh>2015-05-20</ngayPHanh>
+							<tenNMUA>Hiệp hội Phần mềm và Dịch vụ CNTT Việt Nam</tenNMUA>
+							<mstNMUA xsi:nil="true"/>
+							<matHang/>
+							<dsoBanChuaThue>720000</dsoBanChuaThue>
+							<thueGTGT>72000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa></ChiTietHHDVThue10>
+					<tongDThuBRaThue10>720000</tongDThuBRaThue10>
+					<tongThueBRaThue10>72000</tongThueBRaThue10>
+				</HHDVThue10>
+				<HHDVBRaKhongTHop>
+					<ChiTietHHDVBRaKhongTHop>
+					</ChiTietHHDVBRaKhongTHop>
+					<tongDThuBRaKoKKhai>0</tongDThuBRaKoKKhai>
+					<tongThueBRaKoKKhai>0</tongThueBRaKoKKhai>
+				</HHDVBRaKhongTHop>
+				<tongDThuBRa>0</tongDThuBRa>
+				<tongDThuBRaChiuThue>720000</tongDThuBRaChiuThue>
+				<tongThueBRa>72000</tongThueBRa>
+			</PL01_1_GTGT>
+			<PL01_2_GTGT>
+				<HHDVDRieng>
+					<ChiTietHHDVDRieng>
+					</ChiTietHHDVDRieng>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVDRieng>
+				<HHDVKhongKTru>
+					<ChiTietHHDVKhongKTru>
+					</ChiTietHHDVKhongKTru>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVKhongKTru>
+				<HHDVDChung>
+					<ChiTietHHDVDChung>
+						<HDonMVao id="ID_1">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000900</soHDon>
+							<ngayPHanh>2015-05-06</ngayPHanh>
+							<tenNBAN>Công ty Cổ phần Công nghệ Hồng Sơn</tenNBAN>
+							<mstNBAN>0101868709</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>5000000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>500000</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_2">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>1734390</soHDon>
+							<ngayPHanh>2015-04-24</ngayPHanh>
+							<tenNBAN>Công ty Thông tin Di động Trung tâm Thông tin Di động khu vực I</tenNBAN>
+							<mstNBAN>0100686209-001</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>246570</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>24657</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_3">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>1735010</soHDon>
+							<ngayPHanh>2015-05-27</ngayPHanh>
+							<tenNBAN>Công ty Thông tin Di động Trung tâm Thông tin Di động khu vực I</tenNBAN>
+							<mstNBAN>0100686209-001</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>263928</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>26392</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_4">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>1735231</soHDon>
+							<ngayPHanh>2015-06-08</ngayPHanh>
+							<tenNBAN>Công ty Thông tin Di động Trung tâm Thông tin Di động khu vực I</tenNBAN>
+							<mstNBAN>0100686209-001</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>309006</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>30900</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_5">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0004651</soHDon>
+							<ngayPHanh>2015-05-30</ngayPHanh>
+							<tenNBAN>Công ty TNHH Giải pháp Trực tuyến</tenNBAN>
+							<mstNBAN>0101394625</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>1809000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu/>
+						</HDonMVao></ChiTietHHDVDChung>
+					<tongGTriMVao>7628504</tongGTriMVao>
+					<tongThueMVao>581949</tongThueMVao>
+				</HHDVDChung>
+				<HHDVKTru>
+					<ChiTietHHDVKTru>
+					</ChiTietHHDVKTru>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVKTru>
+				<HHDVMVaoKhongTHop>
+					<ChiTietHHDVMVaoKhongTHop>
+					</ChiTietHHDVMVaoKhongTHop>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVMVaoKhongTHop>
+				<tongGTriMVao>7628504</tongGTriMVao>
+				<tongThueMVao>581949</tongThueMVao>
+			</PL01_2_GTGT>
+		</PLuc>
+	</HSoKhaiThue>
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#ID_18"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>e1CXZL402BHGseYm+13J+4wA8rY=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>XeAaphawG+xsLwDjs0HDee6c5jTRB6+tcg4hR/zN1MXzraEse+0t4d8SKhLpBRqRH9NcyW/TQhpH
+vxkXlAu7MO3/TfJuI89Vl6lqEzWs1VDqJozR5uKHGEAt+fqDI6vT8pqEeAieGSGjvsvHoEFbYaod
+t2LWCqhoqqVtN+YaRLM=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>gU+0z3+Lk5T3aSyN9+2mgmLdLHAp0fBr+YWUw24b3BiK903rGJ9MJp50SViFMpKP8hRtAuEE/KCU
+yGDBxz+6YvcY++FXP9fX9x2poMDTlReTLR/DAbwQAVPBGFs77ZPd6/o+Zgu+73fKD9DFnlrvdXqt
+o9r7ejPzSD9bYGpYt8U=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>C=VN,ST=Hà Nội,L=Đống Đa,CN=Công Ty Cổ Phần Công Nghệ Và Đầu Tư NDQ  Việt Nam,UID=MST:0105968380</ds:X509SubjectName><ds:X509Certificate>MIIESzCCAzOgAwIBAgIQVAN5D84RJryohjk+Hix+ITANBgkqhkiG9w0BAQUFADBJMQswCQYDVQQG
+EwJWTjEOMAwGA1UEBxMFSGFub2kxGTAXBgNVBAoTEEJrYXYgQ29ycG9yYXRpb24xDzANBgNVBAMT
+BkJrYXZDQTAeFw0xNTA2MjAxODA5MDlaFw0xNTExMTcxODA5MDlaMIGiMR4wHAYKCZImiZPyLGQB
+AQwOTVNUOjAxMDU5NjgzODAxSTBHBgNVBAMMQEPDtG5nIFR5IEPhu5UgUGjhuqduIEPDtG5nIE5n
+aOG7hyBWw6AgxJDhuqd1IFTGsCBORFEgIFZp4buHdCBOYW0xFDASBgNVBAcMC8SQ4buRbmcgxJBh
+MRIwEAYDVQQIDAlIw6AgTuG7mWkxCzAJBgNVBAYTAlZOMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCB
+iQKBgQCBT7TPf4uTlPdpLI337aaCYt0scCnR8Gv5hZTDbhvcGIr3TesYn0wmnnRJWIUyko/yFG0C
+4QT8oJTIYMHHP7pi9xj74Vc/19f3HamgwNOVF5MtH8MBvBABU8EYWzvtk93r+j5mC77vd8oP0MWe
+Wu91eq2j2vt6M/NIP1tgali3xQIDAQABo4IBVzCCAVMwMQYIKwYBBQUHAQEEJTAjMCEGCCsGAQUF
+BzABhhVodHRwOi8vb2NzcC5ia2F2Y2Eudm4wHQYDVR0OBBYEFLN0v6kp2ForQZ3Wj3d6hx/V58+H
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUHrAPSJff0MNnp0aEO1g7iA1TlIYwfwYDVR0fBHgw
+djB0oCOgIYYfaHR0cDovL2NybC5ia2F2Y2Eudm4vQmthdkNBLmNybKJNpEswSTEPMA0GA1UEAwwG
+QmthdkNBMRkwFwYDVQQKDBBCa2F2IENvcnBvcmF0aW9uMQ4wDAYDVQQHDAVIYW5vaTELMAkGA1UE
+BhMCVk4wDgYDVR0PAQH/BAQDAgeAMB8GA1UdJQQYMBYGCCsGAQUFBwMEBgorBgEEAYI3CgMMMB4G
+A1UdEQQXMBWBE2luZm9AbmRxdmlldG5hbS5jb20wDQYJKoZIhvcNAQEFBQADggEBAEYjzHuibXY4
+Hx/KjjOZqG6pfCycNDX03AiCsmXAg1gsDlIPysS7NTlF1ikzREs6c7EitiECfHHO5dnwMod5HnRJ
+tsenHR0zD9rcQexFg0UilCi2rt7tUR6vWlrzfRm47/M+Je4Uiu+KErOWhrGrxBLxPwmAfNV4nISE
+9aU78AlcY3efQ4NHtF00CyIjIvsAGyzoEg+GliWzmmBwWCDDp4uq7xXBT9eD2TPrr/NcxX5Qob4n
+yju6+7LqxYPc9pdmb/eL8YeMfGSyD0RKkJG0IqcXJIK2bkmHvtFYkx+ZDuELMvpzcmCH2igRLqF1
+pqc6YMNepRUJlSH1FMDN9yU1kpA=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu></HSoThueDTu>

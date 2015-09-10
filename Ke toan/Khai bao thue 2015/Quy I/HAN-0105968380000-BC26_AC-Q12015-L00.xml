@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HSoThueDTu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue">
+	<HSoKhaiThue>
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.3.2</pbanDVu>
+				<ttinNhaCCapDVu></ttinNhaCCapDVu>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>102</maTKhai>
+					<tenTKhai>Báo cáo tình hình sử dụng hóa đơn (BC26/AC)</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 39/2014/TT-BTC  ngày 31/3/2014 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.8</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Q</kieuKy>
+						<kyKKhai>1/2015</kyKKhai>
+						<kyKKhaiTuNgay>01/01/2015</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>31/03/2015</kyKKhaiDenNgay>
+						<kyKKhaiTuThang></kyKKhaiTuThang>
+						<kyKKhaiDenThang></kyKKhaiDenThang>
+					</KyKKhaiThue>
+					<maCQTNoiNop>10109</maCQTNoiNop>
+					<tenCQTNoiNop>Chi cục Thuế Quận Đống đa</tenCQTNoiNop>
+					<ngayLapTKhai>2015-07-29</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan></maLyDoGiaHan>
+						<lyDoGiaHan></lyDoGiaHan>
+					</GiaHan>
+					<nguoiKy>Tô Quốc Điệp</nguoiKy>
+					<ngayKy>2015-05-06</ngayKy>
+					<nganhNgheKD>Đầu tư, các nghành liên quan đến máy tính</nganhNgheKD>
+				</TKhaiThue>
+				<NNT>
+					<mst>0105968380</mst>
+					<tenNNT>Công ty Cổ phần Công nghệ và Đầu tư NDQ Vệt Nam</tenNNT>
+					<dchiNNT>Số 12 nghách 33/15B Cát Linh, Quận Đống Đa, Thành phố Hà Nội</dchiNNT>
+					<phuongXa></phuongXa>
+					<maHuyenNNT></maHuyenNNT>
+					<tenHuyenNNT>Đống Đa</tenHuyenNNT>
+					<maTinhNNT></maTinhNNT>
+					<tenTinhNNT>Hà Nội</tenTinhNNT>
+					<dthoaiNNT>04. 44500745</dthoaiNNT>
+					<faxNNT></faxNNT>
+					<emailNNT>info@ndqvietnam.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<kyBCaoCuoi>0</kyBCaoCuoi>
+			<chuyenDiaDiem>0</chuyenDiaDiem>
+			<ngayDauKyBC>2015-01-01</ngayDauKyBC>
+			<ngayCuoiKyBC>2015-03-31</ngayCuoiKyBC>
+			<HoaDon>
+				<ChiTiet id="ID_1">
+					<maHoaDon>01GTKT</maHoaDon>
+					<tenHDon>Hóa đơn giá trị gia tăng</tenHDon>
+					<kHieuMauHDon>01GTKT3/001</kHieuMauHDon>
+					<kHieuHDon>AA/12P</kHieuHDon>
+					<soTonMuaTrKy_tongSo>350</soTonMuaTrKy_tongSo>
+					<soTonDauKy_tuSo>0000151</soTonDauKy_tuSo>
+					<soTonDauKy_denSo>0000500</soTonDauKy_denSo>
+					<muaTrongKy_tuSo></muaTrongKy_tuSo>
+					<muaTrongKy_denSo></muaTrongKy_denSo>
+					<tongSoSuDung_tuSo>0000151</tongSoSuDung_tuSo>
+					<tongSoSuDung_denSo>0000163</tongSoSuDung_denSo>
+					<tongSoSuDung_cong>13</tongSoSuDung_cong>
+					<soDaSDung>10</soDaSDung>
+					<xoaBo_soLuong>3</xoaBo_soLuong>
+					<xoaBo_so>0000152;0000155;0000160</xoaBo_so>
+					<mat_soLuong>0</mat_soLuong>
+					<mat_so></mat_so>
+					<huy_soLuong>0</huy_soLuong>
+					<huy_so></huy_so>
+					<tonCuoiKy_tuSo>0000164</tonCuoiKy_tuSo>
+					<tonCuoiKy_denSo>0000500</tonCuoiKy_denSo>
+					<tonCuoiKy_soLuong>337</tonCuoiKy_soLuong>
+				</ChiTiet></HoaDon>
+			<tongCongSoTonDKy>350</tongCongSoTonDKy>
+			<tongCongSDung>13</tongCongSDung>
+			<tongCongSoTonCKy>337</tongCongSoTonCKy>
+			<nguoiLapBieu></nguoiLapBieu>
+			<nguoiDaiDien>Tô Quốc Điệp</nguoiDaiDien>
+			<ngayBCao>2015-05-06</ngayBCao>
+		</CTieuTKhaiChinh>
+	</HSoKhaiThue>
+</HSoThueDTu>

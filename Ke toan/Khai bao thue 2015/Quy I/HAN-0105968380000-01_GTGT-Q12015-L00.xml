@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HSoThueDTu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue">
+	<HSoKhaiThue id="ID_18">
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.3.2</pbanDVu>
+				<ttinNhaCCapDVu></ttinNhaCCapDVu>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>01</maTKhai>
+					<tenTKhai>TỜ KHAI THUẾ GIÁ TRỊ GIA TĂNG (Mẫu số 01/GTGT)</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 119/2014/TT-BTC ngày 25/8/2014 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.7</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Q</kieuKy>
+						<kyKKhai>1/2015</kyKKhai>
+						<kyKKhaiTuNgay>01/01/2015</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>31/03/2015</kyKKhaiDenNgay>
+						<kyKKhaiTuThang></kyKKhaiTuThang>
+						<kyKKhaiDenThang></kyKKhaiDenThang>
+					</KyKKhaiThue>
+					<maCQTNoiNop>10109</maCQTNoiNop>
+					<tenCQTNoiNop>Chi cục Thuế Quận Đống đa</tenCQTNoiNop>
+					<ngayLapTKhai>2015-07-29</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan></maLyDoGiaHan>
+						<lyDoGiaHan></lyDoGiaHan>
+					</GiaHan>
+					<nguoiKy>Tô Quốc Điệp</nguoiKy>
+					<ngayKy>2015-05-06</ngayKy>
+					<nganhNgheKD>Đầu tư, các nghành liên quan đến máy tính</nganhNgheKD>
+				</TKhaiThue>
+				<NNT>
+					<mst>0105968380</mst>
+					<tenNNT>Công ty Cổ phần Công nghệ và Đầu tư NDQ Vệt Nam</tenNNT>
+					<dchiNNT>Số 12 nghách 33/15B Cát Linh, Quận Đống Đa, Thành phố Hà Nội</dchiNNT>
+					<phuongXa></phuongXa>
+					<maHuyenNNT></maHuyenNNT>
+					<tenHuyenNNT>Đống Đa</tenHuyenNNT>
+					<maTinhNNT></maTinhNNT>
+					<tenTinhNNT>Hà Nội</tenTinhNNT>
+					<dthoaiNNT>04. 44500745</dthoaiNNT>
+					<faxNNT></faxNNT>
+					<emailNNT>info@ndqvietnam.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<tieuMucHachToan>1701</tieuMucHachToan>
+			<ct21>0</ct21>
+			<ct22>568417</ct22>
+			<GiaTriVaThueGTGTHHDVMuaVao>
+				<ct23>6657570</ct23>
+				<ct24>44757</ct24>
+			</GiaTriVaThueGTGTHHDVMuaVao>
+			<ct25>44757</ct25>
+			<ct26>64090000</ct26>
+			<HHDVBRaChiuThueGTGT>
+				<ct27>3400000</ct27>
+				<ct28>340000</ct28>
+			</HHDVBRaChiuThueGTGT>
+			<ct29>0</ct29>
+			<HHDVBRaChiuTSuat5>
+				<ct30>0</ct30>
+				<ct31>0</ct31>
+			</HHDVBRaChiuTSuat5>
+			<HHDVBRaChiuTSuat10>
+				<ct32>3400000</ct32>
+				<ct33>340000</ct33>
+			</HHDVBRaChiuTSuat10>
+			<TongDThuVaThueGTGTHHDVBRa>
+				<ct34>67490000</ct34>
+				<ct35>340000</ct35>
+			</TongDThuVaThueGTGTHHDVBRa>
+			<ct36>295243</ct36>
+			<ct37>0</ct37>
+			<ct38>0</ct38>
+			<ct39>0</ct39>
+			<ct40a>0</ct40a>
+			<ct40b>0</ct40b>
+			<ct40>0</ct40>
+			<ct41>273174</ct41>
+			<ct42>0</ct42>
+			<ct43>273174</ct43>
+		</CTieuTKhaiChinh>
+		<PLuc>
+			<PL01_1_GTGT>
+				<HHDVKChiuThue>
+					<ChiTietHHDVKChiuThue>
+						<HDonBRa id="ID_1">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000151</soHDon>
+							<ngayPHanh>2015-01-09</ngayPHanh>
+							<tenNMUA>Công ty TNHH Mẹ và Bé</tenNMUA>
+							<mstNMUA>0101609655</mstNMUA>
+							<matHang></matHang>
+							<dsoBanChuaThue>1500000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonBRa><HDonBRa id="ID_2">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000153</soHDon>
+							<ngayPHanh>2015-01-09</ngayPHanh>
+							<tenNMUA>Hội Thiết bị Y tế Việt Nam</tenNMUA>
+							<mstNMUA xsi:nil="true"/>
+							<matHang></matHang>
+							<dsoBanChuaThue>3000000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonBRa><HDonBRa id="ID_3">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000154</soHDon>
+							<ngayPHanh>2015-02-03</ngayPHanh>
+							<tenNMUA>Công ty CP Công nghệ Thông tin Viễn thông và Tự động hóa Dầu Khí</tenNMUA>
+							<mstNMUA>0103349508</mstNMUA>
+							<matHang></matHang>
+							<dsoBanChuaThue>55000000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonBRa><HDonBRa id="ID_4">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000156</soHDon>
+							<ngayPHanh>2015-03-10</ngayPHanh>
+							<tenNMUA>Công ty Cổ phần Truyền thông Hình Ảnh</tenNMUA>
+							<mstNMUA>0104510100</mstNMUA>
+							<matHang></matHang>
+							<dsoBanChuaThue>960000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonBRa><HDonBRa id="ID_5">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000157</soHDon>
+							<ngayPHanh>2015-03-10</ngayPHanh>
+							<tenNMUA>Công ty Cổ phần Mỹ nghệ Thành Nam</tenNMUA>
+							<mstNMUA>0600802284</mstNMUA>
+							<matHang></matHang>
+							<dsoBanChuaThue>350000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonBRa><HDonBRa id="ID_6">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000159</soHDon>
+							<ngayPHanh>2015-03-10</ngayPHanh>
+							<tenNMUA>Công ty TNHH Thương mại Xuất nhập khẩu Lê Ngọc</tenNMUA>
+							<mstNMUA>0106090758</mstNMUA>
+							<matHang></matHang>
+							<dsoBanChuaThue>950000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonBRa><HDonBRa id="ID_7">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000162</soHDon>
+							<ngayPHanh>2015-03-10</ngayPHanh>
+							<tenNMUA>Công ty Cổ phần Thương hiệu Columbus Việt Nam</tenNMUA>
+							<mstNMUA>0106158702</mstNMUA>
+							<matHang></matHang>
+							<dsoBanChuaThue>930000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonBRa><HDonBRa id="ID_8">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000163</soHDon>
+							<ngayPHanh>2015-03-10</ngayPHanh>
+							<tenNMUA>Văn phòng Công chứng Mỹ Đình</tenNMUA>
+							<mstNMUA>0103501047</mstNMUA>
+							<matHang></matHang>
+							<dsoBanChuaThue>1400000</dsoBanChuaThue>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonBRa></ChiTietHHDVKChiuThue>
+					<tongDThuBRaKChiuThue>64090000</tongDThuBRaKChiuThue>
+				</HHDVKChiuThue>
+				<HHDVThue0>
+					<ChiTietHHDVThue0>
+					</ChiTietHHDVThue0>
+					<tongDThuBRaThue0>0</tongDThuBRaThue0>
+					<tongThueBRaThue0>0</tongThueBRaThue0>
+				</HHDVThue0>
+				<HHDVThue5>
+					<ChiTietHHDVThue5>
+					</ChiTietHHDVThue5>
+					<tongDThuBRaThue5>0</tongDThuBRaThue5>
+					<tongThueBRaThue5>0</tongThueBRaThue5>
+				</HHDVThue5>
+				<HHDVThue10>
+					<ChiTietHHDVThue10>
+						<HDonBRa id="ID_1">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000158</soHDon>
+							<ngayPHanh>2015-03-10</ngayPHanh>
+							<tenNMUA>Công ty Cổ phần Mỹ nghệ Thành Nam</tenNMUA>
+							<mstNMUA>0600802284</mstNMUA>
+							<matHang></matHang>
+							<dsoBanChuaThue>2200000</dsoBanChuaThue>
+							<thueGTGT>220000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonBRa><HDonBRa id="ID_2">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0000161</soHDon>
+							<ngayPHanh>2015-03-10</ngayPHanh>
+							<tenNMUA>Công ty TNHH Thương mại Xuất nhập khẩu Lê Ngọc</tenNMUA>
+							<mstNMUA>0106090758</mstNMUA>
+							<matHang></matHang>
+							<dsoBanChuaThue>1200000</dsoBanChuaThue>
+							<thueGTGT>120000</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonBRa></ChiTietHHDVThue10>
+					<tongDThuBRaThue10>3400000</tongDThuBRaThue10>
+					<tongThueBRaThue10>340000</tongThueBRaThue10>
+				</HHDVThue10>
+				<HHDVBRaKhongTHop>
+					<ChiTietHHDVBRaKhongTHop>
+					</ChiTietHHDVBRaKhongTHop>
+					<tongDThuBRaKoKKhai>0</tongDThuBRaKoKKhai>
+					<tongThueBRaKoKKhai>0</tongThueBRaKoKKhai>
+				</HHDVBRaKhongTHop>
+				<tongDThuBRa>0</tongDThuBRa>
+				<tongDThuBRaChiuThue>3400000</tongDThuBRaChiuThue>
+				<tongThueBRa>340000</tongThueBRa>
+			</PL01_1_GTGT>
+			<PL01_2_GTGT>
+				<HHDVDRieng>
+					<ChiTietHHDVDRieng>
+					</ChiTietHHDVDRieng>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVDRieng>
+				<HHDVKhongKTru>
+					<ChiTietHHDVKhongKTru>
+					</ChiTietHHDVKhongKTru>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVKhongKTru>
+				<HHDVDChung>
+					<ChiTietHHDVDChung>
+						<HDonMVao id="ID_1">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>1719716</soHDon>
+							<ngayPHanh>2015-03-19</ngayPHanh>
+							<tenNBAN>Công ty Thông tin Di động Trung tâm Thông tin Di động khu vực I</tenNBAN>
+							<mstNBAN>0100686209-001</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>213570</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>21357</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_2">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0004420</soHDon>
+							<ngayPHanh>2015-03-11</ngayPHanh>
+							<tenNBAN>Công ty TNHH Giải pháp Trực tuyến</tenNBAN>
+							<mstNBAN>0101394625</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>1809000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_3">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0004421</soHDon>
+							<ngayPHanh>2015-03-11</ngayPHanh>
+							<tenNBAN>Công ty TNHH Giải pháp Trực tuyến</tenNBAN>
+							<mstNBAN>0101394625</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>234000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>23400</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_4">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0004438</soHDon>
+							<ngayPHanh>2015-03-13</ngayPHanh>
+							<tenNBAN>Công ty TNHH Giải pháp Trực tuyến</tenNBAN>
+							<mstNBAN>0101394625</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>2358000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao><HDonMVao id="ID_5">
+							<kyHieuMauHDon></kyHieuMauHDon>
+							<kyHieuHDon></kyHieuHDon>
+							<soHDon>0004413</soHDon>
+							<ngayPHanh>2015-03-04</ngayPHanh>
+							<tenNBAN>Công ty TNHH Giải pháp Trực tuyến</tenNBAN>
+							<mstNBAN>0101394625</mstNBAN>
+							<matHang></matHang>
+							<dsoMuaChuaThue>2043000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>0</thueGTGT>
+							<ghiChu></ghiChu>
+						</HDonMVao></ChiTietHHDVDChung>
+					<tongGTriMVao>6657570</tongGTriMVao>
+					<tongThueMVao>44757</tongThueMVao>
+				</HHDVDChung>
+				<HHDVKTru>
+					<ChiTietHHDVKTru>
+					</ChiTietHHDVKTru>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVKTru>
+				<HHDVMVaoKhongTHop>
+					<ChiTietHHDVMVaoKhongTHop>
+					</ChiTietHHDVMVaoKhongTHop>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVMVaoKhongTHop>
+				<tongGTriMVao>6657570</tongGTriMVao>
+				<tongThueMVao>44757</tongThueMVao>
+			</PL01_2_GTGT>
+		</PLuc>
+	</HSoKhaiThue>
+</HSoThueDTu>
